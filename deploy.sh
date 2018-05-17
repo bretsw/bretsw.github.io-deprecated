@@ -2,23 +2,24 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-# Build the project.
+# 1. Build the project.
 hugo -t academic # if using a theme, replace with `hugo -t <YOURTHEME>`
 
-# Go To Public folder
+# 2. Go To Public folder
 cd public
-# Add changes to git.
+
+# 3. Add changes to git.
 git add .
 
-# Commit changes.
+# 4. Commit changes.
 msg="rebuilding site `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
 git commit -m "$msg"
 
-# Push source and build repos.
+# 5. Push source and build repos.
 git push origin master
 
-# Come Back up to the Project Root
+# 6. Come Back up to the Project Root
 cd ..
