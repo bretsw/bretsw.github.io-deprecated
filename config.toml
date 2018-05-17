@@ -1,7 +1,10 @@
-# Configuration of Academic
-# Documentation: https://sourcethemes.com/academic/
-# Example site: https://themes.gohugo.io/theme/academic/post/getting-started/
+# Configuration of Academic Theme
+
+
+# Documentation: https://sourcethemes.com/academic/docs
+# Example site: https://themes.gohugo.io/theme/academic/
 # Working with blogdown: https://bookdown.org/yihui/blogdown/
+# Hosting Hugo on Github: https://gohugo.io/hosting-and-deployment/hosting-on-github/#deployment-via-docs-folder-on-master-branch
 
 
 # The URL of your website.
