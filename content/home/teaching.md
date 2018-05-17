@@ -15,6 +15,16 @@ weight = 40
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+As a graudate assistant, I am a teaching instructor for the following courses at Michigan State University:
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+- CEP416: Teaching and Learning with Technology (Undergraduate)
+Uses of multimedia technology and social media in teaching and learning. Developing plans for integrating technology in classroom. Designing digital online portfolio as tool for professional development. Teaching school subject matter with technology.
+
+- CEP 813: Electronic Assessment for Teaching and Learning (Master's)
+Foundational theories of assessment. Critical examination of methods (e.g., portfolios, rubrics, surveys, tests, self-evaluations), and digital tools that allow educators to gather information, analyze it, and make informed pedagogical choices. Design of assessments for learning, as learning and of learning, especially in digital contexts.
+
+- CEP 817: Learning Technology through Design (Master's)
+Design of educational tools and software. Designing for learners. Human computer interaction. Art and aesthetics of design. Iterative design. Collaboration in design.
+
+- CEP 820: Teaching Students Online (Master's)
+Strategies for constructing and implementing online curricula aimed at students across the lifespan.
