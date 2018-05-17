@@ -34,7 +34,7 @@ Related to this research, I believe in working toward a more generous and humane
     <item>
       <title>Selected Publications</title>
       <link>https://bretsw.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/home/publications_selected/</guid>
       <description></description>
@@ -43,7 +43,7 @@ Related to this research, I believe in working toward a more generous and humane
     <item>
       <title>Recent Publications</title>
       <link>https://bretsw.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/home/publications/</guid>
       <description></description>
@@ -59,31 +59,32 @@ Related to this research, I believe in working toward a more generous and humane
     </item>
     
     <item>
-      <title>Recent Posts</title>
-      <link>https://bretsw.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://bretsw.github.io/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Projects</title>
       <link>https://bretsw.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Custom Section</title>
+      <title>Teaching</title>
       <link>https://bretsw.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+      <description>As a graudate assistant, I am a teaching instructor for the following courses at Michigan State University:
+ CEP416: Teaching and Learning with Technology (Undergraduate) Uses of multimedia technology and social media in teaching and learning. Developing plans for integrating technology in classroom. Designing digital online portfolio as tool for professional development. Teaching school subject matter with technology.
+ CEP 813: Electronic Assessment for Teaching and Learning (Master&amp;rsquo;s) Foundational theories of assessment.</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://bretsw.github.io/home/blog/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.github.io/home/blog/</guid>
+      <description></description>
     </item>
     
     <item>
