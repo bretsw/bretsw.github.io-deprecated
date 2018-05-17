@@ -33,7 +33,7 @@ weight = 5
  
 +++
 
-# Biography
+# About Bret
 
 I am a PhD student researching Educational Psychology and Educational Technology at Michigan State University. I’m interested in lifelong learning among educators, especially as this occurs through online participation with social media—establishing and expanding learning networks for social capital and professional development.
 
