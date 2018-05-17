@@ -1,7 +1,5 @@
 +++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
+
 widget = "teaching"
 active = true
 date = 2018-05-01T00:00:00
@@ -15,16 +13,16 @@ weight = 40
 
 +++
 
-As a graudate assistant, I am a teaching instructor for the following courses at Michigan State University:
+As a graduate assistant, I am a teaching instructor for the following courses at Michigan State University:
 
-- CEP416: Teaching and Learning with Technology (Undergraduate)
+- *CEP416: Teaching and Learning with Technology (Undergraduate)* - 
 Uses of multimedia technology and social media in teaching and learning. Developing plans for integrating technology in classroom. Designing digital online portfolio as tool for professional development. Teaching school subject matter with technology.
 
-- CEP 813: Electronic Assessment for Teaching and Learning (Master's)
+- *CEP 813: Electronic Assessment for Teaching and Learning (Master's)* - 
 Foundational theories of assessment. Critical examination of methods (e.g., portfolios, rubrics, surveys, tests, self-evaluations), and digital tools that allow educators to gather information, analyze it, and make informed pedagogical choices. Design of assessments for learning, as learning and of learning, especially in digital contexts.
 
-- CEP 817: Learning Technology through Design (Master's)
+- *CEP 817: Learning Technology through Design (Master's)* - 
 Design of educational tools and software. Designing for learners. Human computer interaction. Art and aesthetics of design. Iterative design. Collaboration in design.
 
-- CEP 820: Teaching Students Online (Master's)
+- *CEP 820: Teaching Students Online (Master's)* - 
 Strategies for constructing and implementing online curricula aimed at students across the lifespan.
