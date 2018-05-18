@@ -181,15 +181,15 @@ enableGitInfo = false
   #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
   #   translated.
   publication_types = [
-#    'Uncategorized',  # 0
-    'Peer-Reviewed Journal Articles',  # 1
-    'Book Chapters',  # 2
-    'Peer-Reviewed Conference Proceedings',  # 3
-    'Peer-Reviewed Conference Presentations',  # 4
-    'Invited Talks',  # 5
-#    'Manuscript',  # 3
-#    'Report',  # 4
-#    'Book',  # 5
+    'Uncategorized',  # 0
+    'Peer-Reviewed Journal Article',  # 1
+    'Book Chapter',  # 2
+    'Peer-Reviewed Conference Proceeding',  # 3
+    'Peer-Reviewed Conference Presentation',  # 4
+    'Invited Talk',  # 5
+    'Manuscript',  # 6
+    'Report',  # 7
+    'Book',  # 8
   ]
 
   # Configuration of talk pages.
