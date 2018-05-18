@@ -35,10 +35,10 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["social-scholarship"]
+projects = [""]
 
 # Links (optional).
-url_pdf = "http://www.ckbg.org/qwerty/index.php/qwerty/article/view/269"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -46,7 +46,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "http://www.ckbg.org/qwerty/index.php/qwerty/article/view/269"
 
 # Does the content use math formatting?
 math = false
