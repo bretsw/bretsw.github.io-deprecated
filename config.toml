@@ -116,7 +116,7 @@ enableGitInfo = false
   #   Examples: "3:04 pm" or "15:04"
   time_format = "3:04 PM"
 
-  # Show estimated reading time for blog?
+  # Show estimated reading time for post?
   reading_time = true
 
   # Display comment count? Requires commenting to be enabled.
@@ -294,8 +294,8 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Blog"
-  url = "#blog"
+  name = "Posts"
+  url = "#posts"
   weight = 5
 
 # Taxonomies.

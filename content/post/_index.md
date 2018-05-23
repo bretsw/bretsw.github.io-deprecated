@@ -1,5 +1,5 @@
 +++
-title = "Blog"
+title = "Post"
 date = 2018-05-01T00:00:00
 math = true
 highlight = false
