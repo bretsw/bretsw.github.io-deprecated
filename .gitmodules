@@ -1,4 +1,10 @@
+[submodule "themes/academic"]
+	path = themes/academic
+	url = https://github.com/gcushen/hugo-academic.git
 [submodule "public"]
 	path = public
-	url = git@github.com:bretsw/bretsw.github.io.git
+	url = https://github.com/bretsw/bretsw.github.io.git
 	branch = master
+[submodule "themes/hugo-academic"]
+	path = themes/hugo-academic
+	url = https://github.com/gcushen/hugo-academic.git
