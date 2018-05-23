@@ -13,11 +13,29 @@
     
     
     <item>
-      <title></title>
-      <link>https://bretsw.github.io/tags/</link>
+      <title>Fiction</title>
+      <link>https://bretsw.github.io/tags/fiction/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 -0400</pubDate>
       
-      <guid>https://bretsw.github.io/tags/</guid>
+      <guid>https://bretsw.github.io/tags/fiction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online community</title>
+      <link>https://bretsw.github.io/tags/online-community/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.github.io/tags/online-community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real life</title>
+      <link>https://bretsw.github.io/tags/real-life/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.github.io/tags/real-life/</guid>
       <description></description>
     </item>
     
