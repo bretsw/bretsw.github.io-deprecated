@@ -3,7 +3,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # 1. Build the project.
-hugo -t academic # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo -t hugo-academic # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # 2. Go To Public folder
 cd public

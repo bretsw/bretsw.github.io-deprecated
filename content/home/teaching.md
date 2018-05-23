@@ -1,6 +1,6 @@
 +++
 
-widget = "teaching"
+widget = "custom"
 active = true
 date = 2018-05-01T00:00:00
 
