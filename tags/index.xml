@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://bretsw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Content analysis</title>
+      <link>https://bretsw.github.io/tags/content-analysis/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.github.io/tags/content-analysis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Coursework</title>
@@ -27,6 +36,33 @@
       <pubDate>Thu, 30 Apr 2015 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/fiction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human coding</title>
+      <link>https://bretsw.github.io/tags/human-coding/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.github.io/tags/human-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine coding</title>
+      <link>https://bretsw.github.io/tags/machine-coding/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.github.io/tags/machine-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed methods</title>
+      <link>https://bretsw.github.io/tags/mixed-methods/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.github.io/tags/mixed-methods/</guid>
       <description></description>
     </item>
     

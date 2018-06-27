@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mixed methods on bretsw</title>
+    <link>https://bretsw.github.io/tags/mixed-methods/</link>
+    <description>Recent content in Mixed methods on bretsw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://bretsw.github.io/tags/mixed-methods/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#Edchat</title>
+      <link>https://bretsw.github.io/project/edchat/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.github.io/project/edchat/</guid>
+      <description>The main branch of my research to date, seeking to understand the Twitter edcuational conversation #Edchat through a variety of different approaches and methods.
+Understanding discourse by tweet type Learning itself is a complex process, and Twitter is a complex space. To structure and order an exmaination of learning, I am looking at whether the kind of discourse evidenced in a tweet varies by the type of tweet. The tweet type can be quickly sorted at scale with machine coding, but tweet discourse requires a much slower, more finite process of human-coded content analysis.</description>
+    </item>
+    
+  </channel>
+</rss>

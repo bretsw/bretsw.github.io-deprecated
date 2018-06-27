@@ -11,6 +11,34 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>#Edchat</title>
+      <link>https://bretsw.github.io/project/edchat/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.github.io/project/edchat/</guid>
+      <description>
+
+&lt;p&gt;The main branch of my research to date, seeking to understand the Twitter edcuational conversation #Edchat through a variety of different approaches and methods.&lt;/p&gt;
+
+&lt;h2 id=&#34;understanding-discourse-by-tweet-type&#34;&gt;Understanding discourse by tweet type&lt;/h2&gt;
+
+&lt;p&gt;Learning itself is a complex process, and Twitter is a complex space. To structure and order an exmaination of learning, I am looking at whether the kind of &lt;em&gt;discourse&lt;/em&gt; evidenced in a tweet varies by the &lt;em&gt;type&lt;/em&gt; of tweet. The tweet type can be quickly sorted at scale with machine coding, but tweet discourse requires a much slower, more finite process of human-coded content analysis.&lt;/p&gt;
+
+&lt;h2 id=&#34;developing-a-machine-learning-approach&#34;&gt;Developing a machine learning approach&lt;/h2&gt;
+
+&lt;p&gt;Because human-coded content analysis is so slow, it can only be applied to small samples drawn from massive datasets of tweets. I am using the content analysis from the previous study to build a training dataset to classify tweets according to the eight categories of discourse established in the earlier study.&lt;/p&gt;
+
+&lt;h2 id=&#34;examining-the-social-roles-adopted-by-edchat-participants&#34;&gt;Examining the social roles adopted by #Edchat participants&lt;/h2&gt;
+
+&lt;p&gt;Drawing upon Bourdieu&amp;rsquo;s theory of &lt;em&gt;habitus&lt;/em&gt;, I am conducting a case study of the most extreme forms of contribution in the Twitter #Edchat conversation to see which social roles disproportionately shape the experience of other participants.&lt;/p&gt;
+
+&lt;h2 id=&#34;comparing-different-theoretical-frameworks&#34;&gt;Comparing different theoretical frameworks&lt;/h2&gt;
+
+&lt;p&gt;Using the #Edchat conversation as a case to consider the effects on what we see dependent upon which framework we choose, including affinity spaces, media circuits, social capital, communities of practice and professional (or personalized) learning networks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Tweet, and We Shall Find: Using Digital Methods to Locate Participants in Educational Hashtags</title>
       <link>https://bretsw.github.io/publication/greenhalgh_staudtwillet_rosenberg_koehler_2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
