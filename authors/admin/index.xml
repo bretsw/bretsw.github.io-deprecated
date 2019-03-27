@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on bretsw</title>
+    <link>https://bretsw.github.io/authors/admin/</link>
+    <description>Recent content in admin on bretsw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    
+	<atom:link href="https://bretsw.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://bretsw.github.io/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bretsw.github.io/author/admin/</guid>
+      <description>Hey there, I&amp;rsquo;m Bret. Read my CV or download
+I am a PhD candidate in the Educational Psychology &amp;amp; Educational Technology program at Michigan State University. My research focuses on networked teacher learning—specifically, how social media platforms can support professional learning and induction in the process of K-20 educators becoming teachers. This work is interdisciplinary and utilizes a variety of methods—both human and computational—including qualitative content analysis, social network analysis, and machine learning.</description>
+    </item>
+    
+  </channel>
+</rss>

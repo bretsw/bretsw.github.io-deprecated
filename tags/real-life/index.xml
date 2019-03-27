@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Real life on bretsw</title>
+    <title>real life on bretsw</title>
     <link>https://bretsw.github.io/tags/real-life/</link>
-    <description>Recent content in Real life on bretsw</description>
+    <description>Recent content in real life on bretsw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
+    <copyright>&amp;copy; {year}</copyright>
     <lastBuildDate>Thu, 30 Apr 2015 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://bretsw.github.io/tags/real-life/index.xml" rel="self" type="application/rss+xml" />

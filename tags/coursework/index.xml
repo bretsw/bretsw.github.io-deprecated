@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Coursework on bretsw</title>
+    <title>coursework on bretsw</title>
     <link>https://bretsw.github.io/tags/coursework/</link>
-    <description>Recent content in Coursework on bretsw</description>
+    <description>Recent content in coursework on bretsw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
+    <copyright>&amp;copy; {year}</copyright>
     <lastBuildDate>Tue, 01 May 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://bretsw.github.io/tags/coursework/index.xml" rel="self" type="application/rss+xml" />
