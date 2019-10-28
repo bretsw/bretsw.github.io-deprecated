@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://bretsw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>#Edchat</title>
       <link>https://bretsw.github.io/tags/#edchat/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/#edchat/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>#MTBoS</title>
       <link>https://bretsw.github.io/tags/#mtbos/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/#mtbos/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>BoardGameGeek</title>
       <link>https://bretsw.github.io/tags/boardgamegeek/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/boardgamegeek/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>CSEd</title>
       <link>https://bretsw.github.io/tags/csed/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/csed/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Reddit</title>
       <link>https://bretsw.github.io/tags/reddit/</link>
-      <pubDate>Fri, 22 Mar 2019 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/reddit/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Stack Exchange</title>
       <link>https://bretsw.github.io/tags/stack-exchange/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/stack-exchange/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Twitter</title>
       <link>https://bretsw.github.io/tags/twitter/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/twitter/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>affinity spaces</title>
       <link>https://bretsw.github.io/tags/affinity-spaces/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/affinity-spaces/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>community of practice</title>
       <link>https://bretsw.github.io/tags/community-of-practice/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/community-of-practice/</guid>
       <description></description>
@@ -96,7 +96,7 @@
     <item>
       <title>computer science</title>
       <link>https://bretsw.github.io/tags/computer-science/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 21 Mar 2019 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/computer-science/</guid>
       <description></description>
@@ -105,7 +105,7 @@
     <item>
       <title>coursework</title>
       <link>https://bretsw.github.io/tags/coursework/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/coursework/</guid>
       <description></description>
@@ -114,7 +114,7 @@
     <item>
       <title>cv</title>
       <link>https://bretsw.github.io/tags/cv/</link>
-      <pubDate>Sat, 15 Sep 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/cv/</guid>
       <description></description>
@@ -123,7 +123,7 @@
     <item>
       <title>fiction</title>
       <link>https://bretsw.github.io/tags/fiction/</link>
-      <pubDate>Thu, 30 Apr 2015 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 30 Apr 2015 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/fiction/</guid>
       <description></description>
@@ -132,7 +132,7 @@
     <item>
       <title>frame</title>
       <link>https://bretsw.github.io/tags/frame/</link>
-      <pubDate>Sun, 05 Mar 2017 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 -0500</pubDate>
       
       <guid>https://bretsw.github.io/tags/frame/</guid>
       <description></description>
@@ -141,7 +141,7 @@
     <item>
       <title>games</title>
       <link>https://bretsw.github.io/tags/games/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/games/</guid>
       <description></description>
@@ -150,7 +150,7 @@
     <item>
       <title>geolocation</title>
       <link>https://bretsw.github.io/tags/geolocation/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/geolocation/</guid>
       <description></description>
@@ -159,7 +159,7 @@
     <item>
       <title>higher ed</title>
       <link>https://bretsw.github.io/tags/higher-ed/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 -0500</pubDate>
       
       <guid>https://bretsw.github.io/tags/higher-ed/</guid>
       <description></description>
@@ -168,7 +168,7 @@
     <item>
       <title>methods</title>
       <link>https://bretsw.github.io/tags/methods/</link>
-      <pubDate>Tue, 19 Mar 2019 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/methods/</guid>
       <description></description>
@@ -177,7 +177,7 @@
     <item>
       <title>mode</title>
       <link>https://bretsw.github.io/tags/mode/</link>
-      <pubDate>Fri, 13 Apr 2018 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/mode/</guid>
       <description></description>
@@ -186,7 +186,7 @@
     <item>
       <title>msu</title>
       <link>https://bretsw.github.io/tags/msu/</link>
-      <pubDate>Sat, 15 Sep 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/msu/</guid>
       <description></description>
@@ -195,7 +195,7 @@
     <item>
       <title>online community</title>
       <link>https://bretsw.github.io/tags/online-community/</link>
-      <pubDate>Thu, 30 Apr 2015 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 30 Apr 2015 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/online-community/</guid>
       <description></description>
@@ -204,7 +204,7 @@
     <item>
       <title>purposes</title>
       <link>https://bretsw.github.io/tags/purposes/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/purposes/</guid>
       <description></description>
@@ -213,7 +213,7 @@
     <item>
       <title>real life</title>
       <link>https://bretsw.github.io/tags/real-life/</link>
-      <pubDate>Thu, 30 Apr 2015 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 30 Apr 2015 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/real-life/</guid>
       <description></description>
@@ -222,7 +222,7 @@
     <item>
       <title>sentiment analysis</title>
       <link>https://bretsw.github.io/tags/sentiment-analysis/</link>
-      <pubDate>Fri, 22 Mar 2019 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/sentiment-analysis/</guid>
       <description></description>
@@ -231,7 +231,7 @@
     <item>
       <title>social network analysis</title>
       <link>https://bretsw.github.io/tags/social-network-analysis/</link>
-      <pubDate>Fri, 22 Mar 2019 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/social-network-analysis/</guid>
       <description></description>
@@ -240,7 +240,7 @@
     <item>
       <title>social scholarship</title>
       <link>https://bretsw.github.io/tags/social-scholarship/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 -0500</pubDate>
       
       <guid>https://bretsw.github.io/tags/social-scholarship/</guid>
       <description></description>
@@ -249,7 +249,7 @@
     <item>
       <title>spam</title>
       <link>https://bretsw.github.io/tags/spam/</link>
-      <pubDate>Tue, 19 Mar 2019 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/spam/</guid>
       <description></description>
@@ -258,7 +258,7 @@
     <item>
       <title>synchronous</title>
       <link>https://bretsw.github.io/tags/synchronous/</link>
-      <pubDate>Fri, 13 Apr 2018 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/synchronous/</guid>
       <description></description>
@@ -267,7 +267,7 @@
     <item>
       <title>timing</title>
       <link>https://bretsw.github.io/tags/timing/</link>
-      <pubDate>Fri, 13 Apr 2018 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/timing/</guid>
       <description></description>
@@ -276,7 +276,7 @@
     <item>
       <title>transcript</title>
       <link>https://bretsw.github.io/tags/transcript/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.github.io/tags/transcript/</guid>
       <description></description>
