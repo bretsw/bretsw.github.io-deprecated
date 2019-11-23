@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AECT on bretsw</title>
+    <link>https://bretsw.github.io/tags/aect/</link>
+    <description>Recent content in AECT on bretsw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 07 Feb 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://bretsw.github.io/tags/aect/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AECT Graduate Student Assembly: Webinar Series</title>
+      <link>https://bretsw.github.io/post/aect-gsa-webinars/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://bretsw.github.io/post/aect-gsa-webinars/</guid>
+      <description> February 7, 2019: How to Review AECT International Convention Proposals   March 27, 2019: How to Become and Effective and Efficient Academic Writer   May 8, 2019: Navigating Leadership Opportunities in AECT   July 24, 2019: Information and Communications Technology for Enhancing Education Internationally   August 22, 2019: Design and Research Guidelines for Diverse Makerspaces   October 2, 2019: What Happens in Vegas Does Not Stay in Vegas   </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,12 @@
   
     <url>
     
+      <loc>https://bretsw.github.io/post/content_conversation_context/</loc>
+      <lastmod>2019-11-11T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.github.io/publication/greenhow_galvin_staudtwillet_2019/</loc>
       <lastmod>2019-08-01T00:00:00-04:00</lastmod>
     </url>
@@ -39,8 +45,14 @@
   
     <url>
     
+      <loc>https://bretsw.github.io/post/aect-gsa-webinars/</loc>
+      <lastmod>2019-10-02T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.github.io/cv/</loc>
-      <lastmod>2019-09-11T00:00:00-04:00</lastmod>
+      <lastmod>2019-11-20T00:00:00-05:00</lastmod>
     </url>
   
     <url>
@@ -99,8 +111,44 @@
   
     <url>
     
+      <loc>https://bretsw.github.io/post/tale-of-two-grandpas/</loc>
+      <lastmod>2016-11-18T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/post/passion_talks_strength_of_weak_ties/</loc>
+      <lastmod>2016-08-13T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/post/strength_of_weak_ties/</loc>
+      <lastmod>2016-07-30T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/post/motivation-interview/</loc>
+      <lastmod>2016-07-10T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/post/procatstination/</loc>
+      <lastmod>2016-07-01T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.github.io/post/coursework_maet/</loc>
       <lastmod>2015-08-15T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/post/making/</loc>
+      <lastmod>2015-08-18T00:00:00-04:00</lastmod>
     </url>
   
     <url>
@@ -111,8 +159,32 @@
   
     <url>
     
+      <loc>https://bretsw.github.io/post/testing/</loc>
+      <lastmod>2015-04-19T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/post/online_communities/</loc>
+      <lastmod>2014-12-07T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.github.io/post/coursework_serious_game/</loc>
       <lastmod>2014-04-30T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/post/learning-to-read-socially/</loc>
+      <lastmod>2013-06-09T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/post/tell-a-good-story/</loc>
+      <lastmod>2013-05-24T00:00:00-04:00</lastmod>
     </url>
   
     <url>
@@ -145,6 +217,13 @@
     
       <loc>https://bretsw.github.io/publication_types/2/</loc>
       <lastmod>2019-08-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/tags/aect/</loc>
+      <lastmod>2019-10-02T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -203,6 +282,34 @@
   
     <url>
     
+      <loc>https://bretsw.github.io/tags/dnd/</loc>
+      <lastmod>2013-05-24T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/tags/epet/</loc>
+      <lastmod>2016-07-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/tags/ff14/</loc>
+      <lastmod>2016-07-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/tags/gsa/</loc>
+      <lastmod>2019-10-02T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.github.io/authors/holly-marich/</loc>
       <lastmod>2017-12-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -238,6 +345,13 @@
   
     <url>
     
+      <loc>https://bretsw.github.io/tags/maet/</loc>
+      <lastmod>2016-07-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.github.io/authors/matthew-j.-koehler/</loc>
       <lastmod>2019-03-19T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -260,7 +374,7 @@
     <url>
     
       <loc>https://bretsw.github.io/post/</loc>
-      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
+      <lastmod>2019-11-11T00:00:00-05:00</lastmod>
     </url>
   
     <url>
@@ -340,8 +454,22 @@
   
     <url>
     
+      <loc>https://bretsw.github.io/tags/assessment/</loc>
+      <lastmod>2015-04-19T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/tags/audio/</loc>
+      <lastmod>2016-11-18T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.github.io/</loc>
-      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
+      <lastmod>2019-11-11T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -368,8 +496,22 @@
   
     <url>
     
+      <loc>https://bretsw.github.io/tags/culture/</loc>
+      <lastmod>2013-06-09T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.github.io/tags/cv/</loc>
-      <lastmod>2019-09-11T00:00:00-04:00</lastmod>
+      <lastmod>2019-11-20T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/tags/ethnicity/</loc>
+      <lastmod>2013-06-09T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -410,6 +552,20 @@
   
     <url>
     
+      <loc>https://bretsw.github.io/tags/humor/</loc>
+      <lastmod>2016-07-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/tags/makerspaces/</loc>
+      <lastmod>2015-08-18T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.github.io/tags/methods/</loc>
       <lastmod>2019-03-19T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -424,8 +580,15 @@
   
     <url>
     
+      <loc>https://bretsw.github.io/tags/motivation/</loc>
+      <lastmod>2016-07-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.github.io/tags/msu/</loc>
-      <lastmod>2019-09-11T00:00:00-04:00</lastmod>
+      <lastmod>2019-11-20T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -438,8 +601,29 @@
   
     <url>
     
+      <loc>https://bretsw.github.io/tags/passion-talks/</loc>
+      <lastmod>2016-08-13T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/tags/personal/</loc>
+      <lastmod>2016-11-18T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.github.io/tags/purposes/</loc>
       <lastmod>2019-08-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/tags/race/</loc>
+      <lastmod>2013-06-09T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -480,8 +664,22 @@
   
     <url>
     
+      <loc>https://bretsw.github.io/tags/storytelling/</loc>
+      <lastmod>2015-08-18T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.github.io/tags/synchronous/</loc>
       <lastmod>2018-04-13T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/tags/testing/</loc>
+      <lastmod>2015-04-19T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -496,6 +694,20 @@
     
       <loc>https://bretsw.github.io/tags/transcript/</loc>
       <lastmod>2019-05-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/tags/video/</loc>
+      <lastmod>2016-07-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/tags/webinars/</loc>
+      <lastmod>2019-10-02T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   

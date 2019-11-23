@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>audio on bretsw</title>
+    <link>https://bretsw.github.io/tags/audio/</link>
+    <description>Recent content in audio on bretsw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Fri, 18 Nov 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://bretsw.github.io/tags/audio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Tale of Two Grandpas</title>
+      <link>https://bretsw.github.io/post/tale-of-two-grandpas/</link>
+      <pubDate>Fri, 18 Nov 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://bretsw.github.io/post/tale-of-two-grandpas/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Passion Talks 2016: The Strength of the Weak Ties</title>
+      <link>https://bretsw.github.io/post/passion_talks_strength_of_weak_ties/</link>
+      <pubDate>Sat, 13 Aug 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.github.io/post/passion_talks_strength_of_weak_ties/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Motivation Interview</title>
+      <link>https://bretsw.github.io/post/motivation-interview/</link>
+      <pubDate>Sun, 10 Jul 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.github.io/post/motivation-interview/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>How to Tell a Good Story</title>
+      <link>https://bretsw.github.io/post/tell-a-good-story/</link>
+      <pubDate>Fri, 24 May 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.github.io/post/tell-a-good-story/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
