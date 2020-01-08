@@ -42,7 +42,7 @@
 &lt;li&gt;Microsoft Word (paid) for final APA-style formatting for journal articles&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34;&gt;R Markdown&lt;/a&gt; for writing reports&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.latex-project.org/&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; and &lt;a href=&#34;http://www.bibtex.org/&#34; target=&#34;_blank&#34;&gt;BibTeX&lt;/a&gt; for writing particular documents (e.g., CV)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.zotero.org/&#34; target=&#34;_blank&#34;&gt;Zotera&lt;/a&gt; for reference management&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zotero.org/&#34; target=&#34;_blank&#34;&gt;Zotero&lt;/a&gt; for reference management&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://evernote.com/&#34; target=&#34;_blank&#34;&gt;Evernote&lt;/a&gt; for taking notes&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -52,6 +52,9 @@
 &lt;li&gt;&lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; for my main programming language&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://rstudio.com/&#34; target=&#34;_blank&#34;&gt;R Studio&lt;/a&gt; for my programming environment&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34;&gt;git&lt;/a&gt; for version control&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;Tidyverse&lt;/a&gt; R packages for most data shaping and visualization&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://igraph.org/&#34; target=&#34;_blank&#34;&gt;igraph&lt;/a&gt; R package for social network analysis&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gephi.org/&#34; target=&#34;_blank&#34;&gt;Gephi&lt;/a&gt; for prettier network visualizations&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;sharing-research&#34;&gt;Sharing research&lt;/h2&gt;
@@ -59,6 +62,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; for sharing code&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://osf.io/&#34; target=&#34;_blank&#34;&gt;Open Science Framework&lt;/a&gt; for sharing data&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yihui/xaringan/wiki&#34; target=&#34;_blank&#34;&gt;xaringan&lt;/a&gt; R package for creating presentation slides&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;keeping-track&#34;&gt;Keeping track&lt;/h2&gt;
