@@ -7,8 +7,81 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Technology I Use</title>
+      <link>https://bretsw.github.io/tech/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://bretsw.github.io/tech/</guid>
+      <description>
+
+&lt;h1 id=&#34;technology-i-use&#34;&gt;Technology I Use&lt;/h1&gt;
+
+&lt;h2 id=&#34;web&#34;&gt;Web&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; static website generator&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://themes.gohugo.io/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt; theme for Hugo&lt;/li&gt;
+&lt;li&gt;A &lt;a href=&#34;https://github.com/bretsw/bretsw.github.io&#34; target=&#34;_blank&#34;&gt;GitHub repository&lt;/a&gt; for my website&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;communication&#34;&gt;Communication&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://keybase.io/&#34; target=&#34;_blank&#34;&gt;Keybase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://slack.com/&#34; target=&#34;_blank&#34;&gt;Slack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;mail.google.com/&#34; target=&#34;_blank&#34;&gt;Gmail&lt;/a&gt; for all email&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://calendar.google.com/l&#34; target=&#34;_blank&#34;&gt;Google Calendar&lt;/a&gt; for calendar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;writing-and-editing&#34;&gt;Writing and editing&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.google.com/&#34; target=&#34;_blank&#34;&gt;Google Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Microsoft Word (paid) for final APA-style formatting for journal articles&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34;&gt;R Markdown&lt;/a&gt; for writing reports&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.latex-project.org/&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; and &lt;a href=&#34;http://www.bibtex.org/&#34; target=&#34;_blank&#34;&gt;BibTeX&lt;/a&gt; for writing particular documents (e.g., CV)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zotero.org/&#34; target=&#34;_blank&#34;&gt;Zotera&lt;/a&gt; for reference management&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://evernote.com/&#34; target=&#34;_blank&#34;&gt;Evernote&lt;/a&gt; for taking notes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;coding-and-data-analysis&#34;&gt;Coding and data analysis&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.r-project.org/&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; for my main programming language&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rstudio.com/&#34; target=&#34;_blank&#34;&gt;R Studio&lt;/a&gt; for my programming environment&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34;&gt;git&lt;/a&gt; for version control&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sharing-research&#34;&gt;Sharing research&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; for sharing code&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://osf.io/&#34; target=&#34;_blank&#34;&gt;Open Science Framework&lt;/a&gt; for sharing data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;keeping-track&#34;&gt;Keeping track&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://culturedcode.com/things/&#34; target=&#34;_blank&#34;&gt;Things&lt;/a&gt; for managing tasks (paid)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://trello.com/&#34; target=&#34;_blank&#34;&gt;Trello&lt;/a&gt; for visually tracking projects&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://overcast.fm/&#34; target=&#34;_blank&#34;&gt;Overcast&lt;/a&gt; for subscribing to podcasts&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://keep.google.com/&#34; target=&#34;_blank&#34;&gt;Google Keep&lt;/a&gt; for making quick lists (e.g., packing, groceries, library)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lastpass.com/&#34; target=&#34;_blank&#34;&gt;LastPass&lt;/a&gt; for managing passwords (paid)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;iPhone&lt;/li&gt;
+&lt;li&gt;MacBook Pro&lt;/li&gt;
+&lt;li&gt;Kindle Paperwhite&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Spam and Educators’ Twitter Use: Methodological Considerations and Challenges</title>
@@ -587,129 +660,6 @@ Workshop Certificate – The Thiagi Group at NASAGA - Columbus OH&lt;/p&gt;
       
       <guid>https://bretsw.github.io/publication/greenhalgh_staudtwillet_rosenberg_koehler_2018/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Coursework: PhD in Educational Psychology and Educational Technology</title>
-      <link>https://bretsw.github.io/post/coursework_epet/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://bretsw.github.io/post/coursework_epet/</guid>
-      <description>
-
-&lt;p&gt;I have completed the coursework for my Ph.D. in &lt;a href=&#34;http://education.msu.edu/cepse/epet/&#34; target=&#34;_blank&#34;&gt;Educational Psychology and Educational Technology&lt;/a&gt; through Michigan State University&amp;rsquo;s College of Education.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Course department guide:&lt;/strong&gt;&lt;br /&gt;
-* CEP = &lt;em&gt;Department of Counseling, Educational Psychology, &amp;amp; Special Education&lt;/em&gt;&lt;br /&gt;
-* TE = &lt;em&gt;Department of Teacher Education&lt;/em&gt;&lt;br /&gt;
-* WRA = &lt;em&gt;Department of Writing, Rhetoric, &amp;amp; American Cultures&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;theory-and-history&#34;&gt;Theory and History&lt;/h2&gt;
-
-&lt;h3 id=&#34;cep-900-proseminar-in-learning-technology-and-culture&#34;&gt;CEP 900: Proseminar in Learning, Technology and Culture&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Summer 2016&lt;/em&gt;&lt;br /&gt;
-&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;http://education.msu.edu/search/FormView.aspx?email=croseth@msu.edu&#34; target=&#34;_blank&#34;&gt;Dr. Cary Roseth&lt;/a&gt;, &lt;a href=&#34;http://www.matt-koehler.com/&#34; target=&#34;_blank&#34;&gt;Dr. Matthew Koehler&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Historical, theoretical, empirical, methodological, and philosophical issues. Research literature on learning, teaching subject matter, and social-cultural contexts.&lt;/p&gt;
-
-&lt;h3 id=&#34;cep-901b-proseminar-in-educational-technology&#34;&gt;CEP 901b: Proseminar in Educational Technology&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Spring 2017&lt;/em&gt;&lt;br /&gt;
-&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;http://www.cgreenhow.org/&#34; target=&#34;_blank&#34;&gt;Dr. Christine Greenhow&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Historical, theoretical, empirical, methodological, and philosophical issues. Research literature on technology in education.&lt;/p&gt;
-
-&lt;h3 id=&#34;cep-916-intellectual-history-of-educational-technology&#34;&gt;CEP 916: Intellectual History of Educational Technology&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Spring 2018&lt;/em&gt;&lt;br /&gt;
-&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;http://cogflextheory.org&#34; target=&#34;_blank&#34;&gt;Dr. Rand Spiro&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;History of technology and learning in formal and informal settings. Historical, theoretical, empirical, methodological, and philosophical issues in the study of technology in education. Teachers’ use of educational technology.&lt;/p&gt;
-
-&lt;h2 id=&#34;research-methods&#34;&gt;Research Methods&lt;/h2&gt;
-
-&lt;h3 id=&#34;cep-930-educational-inquiry&#34;&gt;CEP 930: Educational Inquiry&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Summer 2016&lt;/em&gt;&lt;br /&gt;
-&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;http://education.msu.edu/search/FormView.aspx?email=croseth@msu.edu&#34; target=&#34;_blank&#34;&gt;Dr. Cary Roseth&lt;/a&gt;, &lt;a href=&#34;http://www.matt-koehler.com/&#34; target=&#34;_blank&#34;&gt;Dr. Matthew Koehler&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Multiple sources of inquiry. Critical assessment of common assumptions about research. Relationship between data and theory. Objectivity, validity, and causal inference across research traditions. Research ethics. Relationship among researcher, researched, and audience. Question formation.&lt;/p&gt;
-
-&lt;h3 id=&#34;te-931-introduction-to-qualitative-methods-in-educational-research&#34;&gt;TE 931: Introduction to Qualitative Methods in Educational Research&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Summer 2017&lt;/em&gt;&lt;br /&gt;
-&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;http://www.cgreenhow.org/&#34; target=&#34;_blank&#34;&gt;Dr. Christine Greenhow&lt;/a&gt;, &lt;a href=&#34;http://www.spencergreenhalgh.com/&#34; target=&#34;_blank&#34;&gt;Dr. Spencer Greenhalgh&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Concepts and assumptions underlying multiple traditions of qualitative research methods in education. Relationship between research questions and qualitative research design. Epistemology, methods, and ethical issues of ethnography, case study research, grounded theory, oral history and discourse analysis. Criteria for appraising and critiquing qualitative research designs, claims, and evidence&lt;/p&gt;
-
-&lt;h3 id=&#34;cep-932-quantitative-methods-in-educational-research-i&#34;&gt;CEP 932: Quantitative Methods in Educational Research I&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Fall 2016&lt;/em&gt;&lt;br /&gt;
-&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;http://stefania.unak.is/stefania/moja-starfsmadurenska.asp?starfsm=audbjorg&#34; target=&#34;_blank&#34;&gt;Dr. Auðbjörg Björnsdóttir&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/brooke-quisenberry-41b1b4110/&#34; target=&#34;_blank&#34;&gt;Brooke Quisenberry&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Techniques in data collection and data analysis used in educational and psychological research. Graphical and tabular representation of data. Concepts of statistical inference in educational contexts.&lt;/p&gt;
-
-&lt;h3 id=&#34;cep-933-quantitative-methods-in-educational-research-ii&#34;&gt;CEP 933: Quantitative Methods in Educational Research II&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Spring 2018&lt;/em&gt;&lt;br /&gt;
-&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;http://stefania.unak.is/stefania/moja-starfsmadurenska.asp?starfsm=audbjorg&#34; target=&#34;_blank&#34;&gt;Dr. Auðbjörg Björnsdóttir&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/brooke-quisenberry-41b1b4110/&#34; target=&#34;_blank&#34;&gt;Brooke Quisenberry&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Advanced techniques of data analysis and statistical inference used in educational and psychological research. Multiple regression, analysis of variance, and basic principles of experimental design in educational applications.&lt;/p&gt;
-
-&lt;h3 id=&#34;cep-991b-theory-and-method-of-social-networks&#34;&gt;CEP 991b: Theory and Method of Social Networks&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Fall 2018&lt;/em&gt;&lt;br /&gt;
-&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;https://msu.edu/~kenfrank/&#34; target=&#34;_blank&#34;&gt;Dr. Ken Frank&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Special topics in educational statistics and research design. Integrate statistical methods that help address the dependencies inherent in social network data and graphical techniques for representing social structure with theory from organizational studies, communications, social psychology, etc.&lt;/p&gt;
-
-&lt;h2 id=&#34;research-area-concentration&#34;&gt;Research Area Concentration&lt;/h2&gt;
-
-&lt;h3 id=&#34;cep-953-teachers-and-technology&#34;&gt;CEP 953: Teachers and Technology&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Summer 2017&lt;/em&gt;&lt;br /&gt;
-&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;https://education.msu.edu/search/Formview.aspx?email=ecb%40msu.edu&#34; target=&#34;_blank&#34;&gt;Dr. Emily Bouck&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Impact of new technologies on teacher knowledge and practices of teaching. Teachers&amp;rsquo; use of technology, teacher knowledge, teacher education, and changing roles of teachers.&lt;/p&gt;
-
-&lt;h3 id=&#34;cep-956-mind-media-and-learning&#34;&gt;CEP 956: Mind, Media, and Learning&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Fall 2018&lt;/em&gt;&lt;br /&gt;
-&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;http://www.cgreenhow.org/&#34; target=&#34;_blank&#34;&gt;Dr. Christine Greenhow&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Philosophy, psychology, and sociology of new media. Media effects and learning with media. Issues of gender, identity, culture in technologically mediated environments, including Internet, virtual reality, computer games, simulations, artificial intelligence (AI) systems, and pedagogical agents.&lt;/p&gt;
-
-&lt;h3 id=&#34;te-907-psychological-study-of-teaching&#34;&gt;TE 907: Psychological Study of Teaching&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Spring 2019&lt;/em&gt;&lt;br /&gt;
-&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;https://education.msu.edu/search/Formview.aspx?email=ralphp%40msu.edu&#34; target=&#34;_blank&#34;&gt;Dr. Ralph Putnam&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Research literature on psychological aspects of teachers and teaching. Topics include teacher&amp;rsquo;s decision-making, learning from experience, and developmental changes.&lt;/p&gt;
-
-&lt;h3 id=&#34;wra-891-culture-rhetoric-and-user-experience-design&#34;&gt;WRA 891: Culture, Rhetoric, and User Experience Design&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Fall 2017&lt;/em&gt;&lt;br /&gt;
-&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;http://benlauren.com/&#34; target=&#34;_blank&#34;&gt;Dr. Ben Lauren&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Theory and research that comprises and informs User Experience Design in the context of writing studies, or what we call Experience Architecture (XA) here at MSU. Explore the interplay between XA theory, research, and practice for a range of applications, paying close attention to the rhetorical and cultural conditions and infrastructures that influence the work of XA.&lt;/p&gt;
-
-&lt;h2 id=&#34;personal-research-development&#34;&gt;Personal Research Development&lt;/h2&gt;
-
-&lt;h3 id=&#34;cep-955-research-design-and-methods-for-educational-psychology-an-educational-technology&#34;&gt;CEP 955: Research Design and Methods for Educational Psychology an Educational Technology&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Fall 2017&lt;/em&gt;&lt;br /&gt;
-&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&#34;https://education.msu.edu/search/Formview.aspx?email=ralphp%40msu.edu&#34; target=&#34;_blank&#34;&gt;Dr. Ralph Putnam&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Research design and methods for studying learning, development, technology, and culture in educational contexts: classrooms, computer-mediated environments, homes, communities, and workplaces.&lt;/p&gt;
-
-&lt;h3 id=&#34;cep-995-practicum-in-research-design-and-data-analysis&#34;&gt;CEP 995: Practicum in Research Design and Data Analysis&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Fall 2017 - Summer 2018&lt;/em&gt;&lt;br /&gt;
-&lt;strong&gt;Instructors:&lt;/strong&gt; &lt;a href=&#34;http://www.matt-koehler.com/&#34; target=&#34;_blank&#34;&gt;Dr. Matthew Koehler&lt;/a&gt;, &lt;a href=&#34;http://www.cgreenhow.org/&#34; target=&#34;_blank&#34;&gt;Dr. Christine Greenhow&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Supervised research practicum. Design, execution, analysis, presentation, critique, and revision of research projects.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
