@@ -3,6 +3,18 @@
   
     <url>
     
+      <loc>https://bretsw.github.io/publication/staudtwillet_carpenter_2020/</loc>
+      <lastmod>2020-02-05T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/publication/greenhalgh_rosenberg_staudtwillet_koehler_akcaoglu_2020/</loc>
+      <lastmod>2020-01-25T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.github.io/tech/</loc>
       <lastmod>2020-01-08T00:00:00-05:00</lastmod>
     </url>
@@ -246,7 +258,7 @@
     <url>
     
       <loc>https://bretsw.github.io/publication_types/2/</loc>
-      <lastmod>2019-12-03T00:00:00-05:00</lastmod>
+      <lastmod>2020-02-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -312,7 +324,7 @@
   
     <url>
     
-      <loc>https://bretsw.github.io/authors/daniel-krutka/</loc>
+      <loc>https://bretsw.github.io/authors/daniel-g.-krutka/</loc>
       <lastmod>2019-11-03T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -355,21 +367,21 @@
     <url>
     
       <loc>https://bretsw.github.io/authors/jeffrey-p.-carpenter/</loc>
-      <lastmod>2019-12-03T00:00:00-05:00</lastmod>
+      <lastmod>2020-02-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://bretsw.github.io/authors/joshua-m.-rosenberg/</loc>
-      <lastmod>2018-06-01T00:00:00-04:00</lastmod>
+      <lastmod>2020-01-25T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://bretsw.github.io/authors/k.-bret-staudt-willet/</loc>
-      <lastmod>2019-12-03T00:00:00-05:00</lastmod>
+      <lastmod>2020-02-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -389,7 +401,7 @@
   
     <url>
     
-      <loc>https://bretsw.github.io/authors/marie-heath/</loc>
+      <loc>https://bretsw.github.io/authors/marie-k.-heath/</loc>
       <lastmod>2019-11-03T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -397,14 +409,14 @@
     <url>
     
       <loc>https://bretsw.github.io/authors/matthew-j.-koehler/</loc>
-      <lastmod>2019-12-03T00:00:00-05:00</lastmod>
+      <lastmod>2020-01-25T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
     <url>
     
       <loc>https://bretsw.github.io/authors/mete-akcaoglu/</loc>
-      <lastmod>2018-04-13T00:00:00-04:00</lastmod>
+      <lastmod>2020-01-25T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -438,13 +450,13 @@
     <url>
     
       <loc>https://bretsw.github.io/publication/</loc>
-      <lastmod>2019-12-03T00:00:00-05:00</lastmod>
+      <lastmod>2020-02-05T00:00:00-05:00</lastmod>
     </url>
   
     <url>
     
       <loc>https://bretsw.github.io/tags/reddit/</loc>
-      <lastmod>2019-03-22T00:00:00-04:00</lastmod>
+      <lastmod>2020-02-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -458,7 +470,7 @@
     <url>
     
       <loc>https://bretsw.github.io/authors/spencer-p.-greenhalgh/</loc>
-      <lastmod>2019-12-03T00:00:00-05:00</lastmod>
+      <lastmod>2020-01-25T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -486,7 +498,7 @@
     <url>
     
       <loc>https://bretsw.github.io/tags/twitter/</loc>
-      <lastmod>2019-12-03T00:00:00-05:00</lastmod>
+      <lastmod>2020-01-25T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -498,8 +510,15 @@
   
     <url>
     
+      <loc>https://bretsw.github.io/tags/affinity-space/</loc>
+      <lastmod>2019-04-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.github.io/tags/affinity-spaces/</loc>
-      <lastmod>2019-08-01T00:00:00-04:00</lastmod>
+      <lastmod>2020-02-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -520,7 +539,7 @@
     <url>
     
       <loc>https://bretsw.github.io/</loc>
-      <lastmod>2020-01-08T00:00:00-05:00</lastmod>
+      <lastmod>2020-02-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -577,6 +596,13 @@
     
       <loc>https://bretsw.github.io/tags/educational-technology/</loc>
       <lastmod>2019-11-03T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/tags/educators/</loc>
+      <lastmod>2020-02-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -680,6 +706,13 @@
   
     <url>
     
+      <loc>https://bretsw.github.io/tags/online-discussion-forums/</loc>
+      <lastmod>2020-02-05T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.github.io/tags/passion-talks/</loc>
       <lastmod>2016-08-13T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -722,8 +755,15 @@
   
     <url>
     
+      <loc>https://bretsw.github.io/tags/social-media/</loc>
+      <lastmod>2020-02-05T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.github.io/tags/social-network-analysis/</loc>
-      <lastmod>2019-03-22T00:00:00-04:00</lastmod>
+      <lastmod>2020-02-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -757,8 +797,22 @@
   
     <url>
     
+      <loc>https://bretsw.github.io/tags/teacher/</loc>
+      <lastmod>2019-04-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.github.io/tags/teacher-education/</loc>
       <lastmod>2019-11-03T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.github.io/tags/teacher-professional-learning/</loc>
+      <lastmod>2020-01-25T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
