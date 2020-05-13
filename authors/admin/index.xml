@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin on bretsw</title>
-    <link>https://bretsw.github.io/authors/admin/</link>
+    <link>http://bretsw.com/authors/admin/</link>
     <description>Recent content in admin on bretsw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; {year}</copyright>
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {year}</copyright>
     
-	<atom:link href="https://bretsw.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bretsw.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://bretsw.github.io/author/admin/</link>
+      <link>http://bretsw.com/author/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bretsw.github.io/author/admin/</guid>
+      <guid>http://bretsw.com/author/admin/</guid>
       <description>Hey there, I&amp;rsquo;m Bret. Read my CV or download a PDF copy.
 I am a PhD candidate in the Educational Psychology &amp;amp; Educational Technology program at Michigan State University. My research focuses on networked learning at the intersection of information science and teacher education. Specifically, I have been exploring how social media platforms support induction and ongoing professional learning for K-20 educators.
 Through a mixed-methods dissertation (interviews first and then a survey), I am seeking to understand the challenges faced by early-career educators during their transition from educator preparation programs into professional employment contexts (i.</description>

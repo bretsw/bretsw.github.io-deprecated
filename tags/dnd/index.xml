@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DnD on bretsw</title>
-    <link>https://bretsw.github.io/tags/dnd/</link>
+    <link>http://bretsw.com/tags/dnd/</link>
     <description>Recent content in DnD on bretsw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; {year}</copyright>
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {year}</copyright>
     <lastBuildDate>Fri, 24 May 2013 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://bretsw.github.io/tags/dnd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bretsw.com/tags/dnd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to Tell a Good Story</title>
-      <link>https://bretsw.github.io/post/tell-a-good-story/</link>
+      <link>http://bretsw.com/post/tell-a-good-story/</link>
       <pubDate>Fri, 24 May 2013 00:00:00 -0400</pubDate>
       
-      <guid>https://bretsw.github.io/post/tell-a-good-story/</guid>
+      <guid>http://bretsw.com/post/tell-a-good-story/</guid>
       <description> </description>
     </item>
     

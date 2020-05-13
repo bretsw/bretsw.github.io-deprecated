@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on bretsw</title>
-    <link>https://bretsw.github.io/talk/</link>
+    <link>http://bretsw.com/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on bretsw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; {year}</copyright>
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {year}</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://bretsw.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bretsw.com/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

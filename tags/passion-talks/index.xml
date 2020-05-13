@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>passion talks on bretsw</title>
-    <link>https://bretsw.github.io/tags/passion-talks/</link>
+    <link>http://bretsw.com/tags/passion-talks/</link>
     <description>Recent content in passion talks on bretsw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; {year}</copyright>
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {year}</copyright>
     <lastBuildDate>Sat, 13 Aug 2016 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://bretsw.github.io/tags/passion-talks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bretsw.com/tags/passion-talks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Passion Talks 2016: The Strength of the Weak Ties</title>
-      <link>https://bretsw.github.io/post/passion_talks_strength_of_weak_ties/</link>
+      <link>http://bretsw.com/post/passion_talks_strength_of_weak_ties/</link>
       <pubDate>Sat, 13 Aug 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://bretsw.github.io/post/passion_talks_strength_of_weak_ties/</guid>
+      <guid>http://bretsw.com/post/passion_talks_strength_of_weak_ties/</guid>
       <description> </description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>motivation on bretsw</title>
-    <link>https://bretsw.github.io/tags/motivation/</link>
+    <link>http://bretsw.com/tags/motivation/</link>
     <description>Recent content in motivation on bretsw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; {year}</copyright>
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {year}</copyright>
     <lastBuildDate>Fri, 01 Jul 2016 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://bretsw.github.io/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bretsw.com/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>proCATstination</title>
-      <link>https://bretsw.github.io/post/procatstination/</link>
+      <link>http://bretsw.com/post/procatstination/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://bretsw.github.io/post/procatstination/</guid>
+      <guid>http://bretsw.com/post/procatstination/</guid>
       <description>   </description>
     </item>
     
