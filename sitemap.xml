@@ -9,6 +9,12 @@
   
     <url>
     
+      <loc>http://bretsw.com/post/edchat-comparisons/</loc>
+      <lastmod>2020-07-30T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>http://bretsw.com/post/trello-projects/</loc>
       <lastmod>2020-07-30T00:00:00-04:00</lastmod>
     </url>
@@ -467,6 +473,13 @@
   
     <url>
     
+      <loc>http://bretsw.com/tags/r/</loc>
+      <lastmod>2020-07-29T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>http://bretsw.com/tags/reddit/</loc>
       <lastmod>2020-02-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -599,6 +612,13 @@
   
     <url>
     
+      <loc>http://bretsw.com/tags/dataviz/</loc>
+      <lastmod>2020-07-29T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>http://bretsw.com/tags/dissertation/</loc>
       <lastmod>2020-07-29T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -657,6 +677,13 @@
     
       <loc>http://bretsw.com/tags/hashtag/</loc>
       <lastmod>2019-11-15T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://bretsw.com/tags/heatmap/</loc>
+      <lastmod>2020-07-29T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   

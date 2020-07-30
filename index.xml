@@ -33,6 +33,48 @@
     </item>
     
     <item>
+      <title>Comparisons in Twitter #Edchat during COVID-19</title>
+      <link>http://bretsw.com/post/edchat-comparisons/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>http://bretsw.com/post/edchat-comparisons/</guid>
+      <description>
+
+&lt;p&gt;I am in the midst of two projects looking at how Twitter #Edchat tweets may have been affected by the COVID-19 pandemic. The first project is primarily comparing tweets in Spring 2020 to those in the same timeframe a year earlier. The second project focuses on Spring 2020 but compares tweets from U.K. and U.S. users. I used &lt;code&gt;geom_tile()&lt;/code&gt; in &lt;strong&gt;{ggplot2}&lt;/strong&gt; to create heatmap plots to help me quickly visualize and compare a large number of data points.&lt;/p&gt;
+
+&lt;h2 id=&#34;edchat-comparing-2019-to-2020&#34;&gt;#Edchat: Comparing 2019 to 2020&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://bretsw.com/img/tweets-over-time-comparison-2019-2020.png&#34; alt=&#34;Themes by participant&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://bretsw.com/img/hashtag-comparison-big-change.png&#34; alt=&#34;Themes by participant&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;edchat-comparing-u-k-to-u-s-tweeters&#34;&gt;#Edchat: Comparing U.K. to U.S. tweeters&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://bretsw.com/img/tweets-over-time-comparison-UK-US.png&#34; alt=&#34;Themes by participant&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;top-100-hashtags-comparison&#34;&gt;Top 100 hashtags comparison&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://bretsw.com/img/hashtag-comparison-heatmap-all.png&#34; alt=&#34;Themes by participant&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;top-16-hashtags-comparison&#34;&gt;Top 16 hashtags comparison&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://bretsw.com/img/hashtag-comparison-heatmap.png&#34; alt=&#34;Themes by participant&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://bretsw.com/img/hashtag-comparison-scatter.png&#34; alt=&#34;Themes by participant&#34; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;topic-models-comparison-3-topics-per-country&#34;&gt;Topic models comparison (3 topics per country)&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://bretsw.com/img/topics-UK.png&#34; alt=&#34;Themes by participant&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://bretsw.com/img/topics-US.png&#34; alt=&#34;Themes by participant&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://bretsw.com/img/topics-UK-US.png&#34; alt=&#34;Themes by participant&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can view all the output from these projects on RPubs, both the &lt;a href=&#34;https://rpubs.com/bretsw/pandemic-edchat&#34; target=&#34;_blank&#34;&gt;2019 vs. 2020 project&lt;/a&gt; and the &lt;a href=&#34;https://rpubs.com/bretsw/pandemic-edchat-uk-us&#34; target=&#34;_blank&#34;&gt;UK vs. US project&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Bret&#39;s Project Landscape (hosted on Trello)</title>
       <link>http://bretsw.com/post/trello-projects/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 -0400</pubDate>
@@ -271,15 +313,6 @@
       <pubDate>Thu, 21 Mar 2019 00:00:00 -0400</pubDate>
       
       <guid>http://bretsw.com/publication/moudgalya_staudtwillet_2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spam, Spam, Spam, Spam: Methodological Considerations and Challenges for Studying Educators’ Twitter Use</title>
-      <link>http://bretsw.com/publication/carpenter_koehler_staudtwillet_greenhalgh_2019/</link>
-      <pubDate>Tue, 19 Mar 2019 00:00:00 -0400</pubDate>
-      
-      <guid>http://bretsw.com/publication/carpenter_koehler_staudtwillet_greenhalgh_2019/</guid>
       <description></description>
     </item>
     
