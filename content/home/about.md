@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2020-07-30T00:00:00
+date = 2020-08-12T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Educational Technology",
-    "Participatory Culture",
-    "Online Communities"
+    "Networked Learning",
+    "Online Communities",
+    "Social Media"
   ]
 
 # List your qualifications (such as academic degrees).
