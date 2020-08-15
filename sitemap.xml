@@ -3,6 +3,24 @@
   
     <url>
     
+      <loc>http://bretsw.com/post/diversity-statement/</loc>
+      <lastmod>2020-08-14T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://bretsw.com/post/research-statement/</loc>
+      <lastmod>2020-08-14T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>http://bretsw.com/post/teaching-statement/</loc>
+      <lastmod>2020-08-14T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>http://bretsw.com/post/dissertation-themes/</loc>
       <lastmod>2020-07-29T00:00:00-04:00</lastmod>
     </url>
@@ -455,7 +473,7 @@
     <url>
     
       <loc>http://bretsw.com/post/</loc>
-      <lastmod>2020-07-29T00:00:00-04:00</lastmod>
+      <lastmod>2020-08-14T00:00:00-04:00</lastmod>
     </url>
   
     <url>
@@ -564,7 +582,7 @@
     <url>
     
       <loc>http://bretsw.com/</loc>
-      <lastmod>2020-07-29T00:00:00-04:00</lastmod>
+      <lastmod>2020-08-14T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -626,6 +644,13 @@
   
     <url>
     
+      <loc>http://bretsw.com/tags/diversity/</loc>
+      <lastmod>2020-08-14T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>http://bretsw.com/tags/educational-technology/</loc>
       <lastmod>2019-11-03T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -635,6 +660,13 @@
     
       <loc>http://bretsw.com/tags/educators/</loc>
       <lastmod>2020-02-05T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://bretsw.com/tags/equity/</loc>
+      <lastmod>2020-08-14T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -703,6 +735,20 @@
   
     <url>
     
+      <loc>http://bretsw.com/tags/inclusion/</loc>
+      <lastmod>2020-08-14T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://bretsw.com/tags/job-doc/</loc>
+      <lastmod>2020-08-14T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>http://bretsw.com/tags/makerspaces/</loc>
       <lastmod>2015-08-18T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -733,6 +779,13 @@
     
       <loc>http://bretsw.com/tags/msu/</loc>
       <lastmod>2020-07-29T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://bretsw.com/tags/networked-learning/</loc>
+      <lastmod>2020-08-14T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -782,6 +835,13 @@
     
       <loc>http://bretsw.com/tags/real-life/</loc>
       <lastmod>2015-04-30T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://bretsw.com/tags/research/</loc>
+      <lastmod>2020-08-14T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -852,6 +912,13 @@
     
       <loc>http://bretsw.com/tags/teacher-professional-learning/</loc>
       <lastmod>2020-01-25T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>http://bretsw.com/tags/teaching/</loc>
+      <lastmod>2020-08-14T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
