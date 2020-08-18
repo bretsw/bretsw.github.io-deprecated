@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dissertation on bretsw</title>
-    <link>http://bretsw.com/tags/dissertation/</link>
-    <description>Recent content in dissertation on bretsw</description>
+    <title>dissertation on Digital space of K. Bret Staudt Willet</title>
+    <link>https://bretsw.com/tags/dissertation/</link>
+    <description>Recent content in dissertation on Digital space of K. Bret Staudt Willet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {year}</copyright>
     <lastBuildDate>Thu, 09 Jul 2020 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://bretsw.com/tags/dissertation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bretsw.com/tags/dissertation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dissertation Themes</title>
-      <link>http://bretsw.com/post/dissertation-themes/</link>
+      <link>https://bretsw.com/post/dissertation-themes/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/dissertation-themes/</guid>
+      <guid>https://bretsw.com/post/dissertation-themes/</guid>
       <description>As I&amp;rsquo;ve wrapped up numerous cycles of qualitative coding of interview data for my dissertation, Into the edu-verse: New teachers’ agency in self-directed learning with social media, I used geom_tile() in {ggplot2} to create heatmap plots to help me quickly visualize how thematic codes varied by interview participant and by modality.
 Codes by Participant Codes by Modality I&amp;rsquo;ve shared the code to produce these plots in a GitHub repository, and you can also view on RPubs a variety of different heatmaps I created en route to these final plots.</description>
     </item>
     
     <item>
       <title>Comparisons in Twitter #Edchat during COVID-19</title>
-      <link>http://bretsw.com/post/edchat-comparisons/</link>
+      <link>https://bretsw.com/post/edchat-comparisons/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/edchat-comparisons/</guid>
+      <guid>https://bretsw.com/post/edchat-comparisons/</guid>
       <description>I am in the midst of two projects looking at how Twitter #Edchat tweets may have been affected by the COVID-19 pandemic. The first project is primarily comparing tweets in Spring 2020 to those in the same timeframe a year earlier. The second project focuses on Spring 2020 but compares tweets from U.K. and U.S. users. I used geom_tile() in {ggplot2} to create heatmap plots to help me quickly visualize and compare a large number of data points.</description>
     </item>
     
     <item>
       <title>Bret&#39;s Project Landscape (hosted on Trello)</title>
-      <link>http://bretsw.com/post/trello-projects/</link>
+      <link>https://bretsw.com/post/trello-projects/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/trello-projects/</guid>
+      <guid>https://bretsw.com/post/trello-projects/</guid>
       <description>Projects of Bret Staudt Willet</description>
     </item>
     
     <item>
       <title>Dissertation Proposal</title>
-      <link>http://bretsw.com/post/dissertation-proposal/</link>
+      <link>https://bretsw.com/post/dissertation-proposal/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://bretsw.com/post/dissertation-proposal/</guid>
+      <guid>https://bretsw.com/post/dissertation-proposal/</guid>
       <description>Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media On November 26, 2019, I successfully defended my dissertation proposal for my PhD in Educational Psychology and Educational Technology through Michigan State University&amp;rsquo;s College of Education. I have shared the full text of my proposal here: https://bretsw.github.io/dissertation-proposal-text/
 You can scroll through my presentation slides for the defense below (use the arrow keys) or view them here.
  At the end of the defense, I asked my committee for advice on sustaining a project as large as the dissertation, and they offered some great wisdom.</description>

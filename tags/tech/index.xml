@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tech on bretsw</title>
-    <link>http://bretsw.com/tags/tech/</link>
-    <description>Recent content in tech on bretsw</description>
+    <title>tech on Digital space of K. Bret Staudt Willet</title>
+    <link>https://bretsw.com/tags/tech/</link>
+    <description>Recent content in tech on Digital space of K. Bret Staudt Willet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {year}</copyright>
     <lastBuildDate>Wed, 08 Jan 2020 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://bretsw.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bretsw.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Technology I Use</title>
-      <link>http://bretsw.com/tech/</link>
+      <link>https://bretsw.com/tech/</link>
       <pubDate>Wed, 08 Jan 2020 00:00:00 -0500</pubDate>
       
-      <guid>http://bretsw.com/tech/</guid>
+      <guid>https://bretsw.com/tech/</guid>
       <description>Web  The Hugo static website generator The Academic theme for Hugo A GitHub repository for my website  Communication  Keybase Slack Gmail for all email Google Calendar for calendar  Writing and editing  Google Docs Microsoft Word (paid) for final APA-style formatting for journal articles R Markdown for writing reports LaTeX and BibTeX for writing particular documents (e.g., CV) Zotero for reference management Evernote for taking notes  Coding and data analysis  R for my main programming language R Studio for my programming environment git for version control Tidyverse R packages for most data shaping and visualization igraph R package for social network analysis Gephi for prettier network visualizations ATLAS.</description>
     </item>
     

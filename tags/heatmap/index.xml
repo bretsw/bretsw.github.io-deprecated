@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>heatmap on bretsw</title>
-    <link>http://bretsw.com/tags/heatmap/</link>
-    <description>Recent content in heatmap on bretsw</description>
+    <title>heatmap on Digital space of K. Bret Staudt Willet</title>
+    <link>https://bretsw.com/tags/heatmap/</link>
+    <description>Recent content in heatmap on Digital space of K. Bret Staudt Willet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {year}</copyright>
     <lastBuildDate>Thu, 09 Jul 2020 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://bretsw.com/tags/heatmap/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bretsw.com/tags/heatmap/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dissertation Themes</title>
-      <link>http://bretsw.com/post/dissertation-themes/</link>
+      <link>https://bretsw.com/post/dissertation-themes/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/dissertation-themes/</guid>
+      <guid>https://bretsw.com/post/dissertation-themes/</guid>
       <description>As I&amp;rsquo;ve wrapped up numerous cycles of qualitative coding of interview data for my dissertation, Into the edu-verse: New teachers’ agency in self-directed learning with social media, I used geom_tile() in {ggplot2} to create heatmap plots to help me quickly visualize how thematic codes varied by interview participant and by modality.
 Codes by Participant Codes by Modality I&amp;rsquo;ve shared the code to produce these plots in a GitHub repository, and you can also view on RPubs a variety of different heatmaps I created en route to these final plots.</description>
     </item>

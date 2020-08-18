@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on bretsw</title>
-    <link>http://bretsw.com/post/</link>
-    <description>Recent content in Posts on bretsw</description>
+    <title>Posts on Digital space of K. Bret Staudt Willet</title>
+    <link>https://bretsw.com/post/</link>
+    <description>Recent content in Posts on Digital space of K. Bret Staudt Willet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {year}</copyright>
     <lastBuildDate>Fri, 14 Aug 2020 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://bretsw.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bretsw.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Diversity Statement</title>
-      <link>http://bretsw.com/post/diversity-statement/</link>
+      <link>https://bretsw.com/post/diversity-statement/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/diversity-statement/</guid>
-      <description>In 2012, novelist John Scalzi wrote a blog post titled Straight White Male: The Lowest Difficulty Setting There Is. This description has resonated with me. It situates any difficulties I have had in a position relative to other experiences, stories, and identities that are generally, systemically more challenging. For instance, few would describe their experiences during the COVID-19 pandemic and American racism pandemic of 2020 as easy. It has been hard for anyone to be productive this year.</description>
+      <guid>https://bretsw.com/post/diversity-statement/</guid>
+      <description>In Becoming Qualitative Researchers: An Introduction (2016), Corrine Glesne argued that to establish the trustworthiness of qualitative research, a researcher must reflect on their positionality, answering, “Why do I notice what I notice?” (p. 153). I am writing this diversity statement as a white, cisgender, heterosexual, American-born man. My parents, grandparents, and great grandparents all received university degrees. It was always assumed that I would pursue an undergraduate degree, and my decisions to later pursue a Master’s degree and a Ph.</description>
     </item>
     
     <item>
       <title>Research Statement</title>
-      <link>http://bretsw.com/post/research-statement/</link>
+      <link>https://bretsw.com/post/research-statement/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/research-statement/</guid>
+      <guid>https://bretsw.com/post/research-statement/</guid>
       <description>Research Agenda I study online learning environments. I research networked learning at the intersection of educational psychology, instructional technology, and information science. My scholarship investigates the networked learning made possible by the novel social and environmental conditions afforded by the Internet. Specifically, I explore how social media platforms support online learning communities. In various projects, I have framed networked learning in terms of self-directed learning (i.e., an agentic perspective on socio-cognitive processes), affinity spaces (i.</description>
     </item>
     
     <item>
       <title>Teaching Statement</title>
-      <link>http://bretsw.com/post/teaching-statement/</link>
+      <link>https://bretsw.com/post/teaching-statement/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/teaching-statement/</guid>
+      <guid>https://bretsw.com/post/teaching-statement/</guid>
       <description>Teaching Philosophy My teaching philosophy is shaped by two primary principles. These principles are related to networked learning, a self-directed and social approach to learning. My first role as an educator is to affirm and strengthen students’ agency. I invite them to co-create their learning experiences, help them self-reflect, and guide them toward asking better questions. Second, I strive to model, and invite students to practice, the principles of open science.</description>
     </item>
     
     <item>
       <title>Dissertation Themes</title>
-      <link>http://bretsw.com/post/dissertation-themes/</link>
+      <link>https://bretsw.com/post/dissertation-themes/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/dissertation-themes/</guid>
+      <guid>https://bretsw.com/post/dissertation-themes/</guid>
       <description>As I&amp;rsquo;ve wrapped up numerous cycles of qualitative coding of interview data for my dissertation, Into the edu-verse: New teachers’ agency in self-directed learning with social media, I used geom_tile() in {ggplot2} to create heatmap plots to help me quickly visualize how thematic codes varied by interview participant and by modality.
 Codes by Participant Codes by Modality I&amp;rsquo;ve shared the code to produce these plots in a GitHub repository, and you can also view on RPubs a variety of different heatmaps I created en route to these final plots.</description>
     </item>
     
     <item>
       <title>Comparisons in Twitter #Edchat during COVID-19</title>
-      <link>http://bretsw.com/post/edchat-comparisons/</link>
+      <link>https://bretsw.com/post/edchat-comparisons/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/edchat-comparisons/</guid>
+      <guid>https://bretsw.com/post/edchat-comparisons/</guid>
       <description>I am in the midst of two projects looking at how Twitter #Edchat tweets may have been affected by the COVID-19 pandemic. The first project is primarily comparing tweets in Spring 2020 to those in the same timeframe a year earlier. The second project focuses on Spring 2020 but compares tweets from U.K. and U.S. users. I used geom_tile() in {ggplot2} to create heatmap plots to help me quickly visualize and compare a large number of data points.</description>
     </item>
     
     <item>
       <title>Bret&#39;s Project Landscape (hosted on Trello)</title>
-      <link>http://bretsw.com/post/trello-projects/</link>
+      <link>https://bretsw.com/post/trello-projects/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/trello-projects/</guid>
+      <guid>https://bretsw.com/post/trello-projects/</guid>
       <description>Projects of Bret Staudt Willet</description>
     </item>
     
     <item>
       <title>Dissertation Proposal</title>
-      <link>http://bretsw.com/post/dissertation-proposal/</link>
+      <link>https://bretsw.com/post/dissertation-proposal/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://bretsw.com/post/dissertation-proposal/</guid>
+      <guid>https://bretsw.com/post/dissertation-proposal/</guid>
       <description>Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media On November 26, 2019, I successfully defended my dissertation proposal for my PhD in Educational Psychology and Educational Technology through Michigan State University&amp;rsquo;s College of Education. I have shared the full text of my proposal here: https://bretsw.github.io/dissertation-proposal-text/
 You can scroll through my presentation slides for the defense below (use the arrow keys) or view them here.
  At the end of the defense, I asked my committee for advice on sustaining a project as large as the dissertation, and they offered some great wisdom.</description>
@@ -80,29 +80,29 @@ You can scroll through my presentation slides for the defense below (use the arr
     
     <item>
       <title>Content, Conversation, &amp; Context: How Educators Talk to Each Other in Twitter #Edchat</title>
-      <link>http://bretsw.com/post/content_conversation_context/</link>
+      <link>https://bretsw.com/post/content_conversation_context/</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://bretsw.com/post/content_conversation_context/</guid>
+      <guid>https://bretsw.com/post/content_conversation_context/</guid>
       <description>On November 11, 2019, I gave a talk on a recent research project as part of the Educational Psychology and Educational Technology (EPET) brownbag series at Michigan State University.
 Abstract Despite potential benefits, conversations on Twitter are often hard to follow. Several factors contribute: the volume of new messages, the unruly mass of content, and the mashup of features that comprise the platform. For educators to participate in professional learning on Twitter, they must be able to find coherence in these conversations.</description>
     </item>
     
     <item>
       <title>AECT Graduate Student Assembly: Webinar Series</title>
-      <link>http://bretsw.com/post/aect-gsa-webinars/</link>
+      <link>https://bretsw.com/post/aect-gsa-webinars/</link>
       <pubDate>Thu, 07 Feb 2019 00:00:00 -0500</pubDate>
       
-      <guid>http://bretsw.com/post/aect-gsa-webinars/</guid>
+      <guid>https://bretsw.com/post/aect-gsa-webinars/</guid>
       <description> February 7, 2019: How to Review AECT International Convention Proposals   March 27, 2019: How to Become and Effective and Efficient Academic Writer   May 8, 2019: Navigating Leadership Opportunities in AECT   July 24, 2019: Information and Communications Technology for Enhancing Education Internationally   August 22, 2019: Design and Research Guidelines for Diverse Makerspaces   October 2, 2019: What Happens in Vegas Does Not Stay in Vegas   </description>
     </item>
     
     <item>
       <title>Coursework: PhD in Educational Psychology and Educational Technology</title>
-      <link>http://bretsw.com/post/coursework_epet/</link>
+      <link>https://bretsw.com/post/coursework_epet/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/coursework_epet/</guid>
+      <guid>https://bretsw.com/post/coursework_epet/</guid>
       <description>I have completed the coursework for my Ph.D. in Educational Psychology and Educational Technology through Michigan State University&amp;rsquo;s College of Education.
 Course department guide:
 * CEP = Department of Counseling, Educational Psychology, &amp;amp; Special Education
@@ -114,55 +114,55 @@ Instructors: Dr. Cary Roseth, Dr.</description>
     
     <item>
       <title>A Tale of Two Grandpas</title>
-      <link>http://bretsw.com/post/tale-of-two-grandpas/</link>
+      <link>https://bretsw.com/post/tale-of-two-grandpas/</link>
       <pubDate>Fri, 18 Nov 2016 00:00:00 -0500</pubDate>
       
-      <guid>http://bretsw.com/post/tale-of-two-grandpas/</guid>
+      <guid>https://bretsw.com/post/tale-of-two-grandpas/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Passion Talks 2016: The Strength of the Weak Ties</title>
-      <link>http://bretsw.com/post/passion_talks_strength_of_weak_ties/</link>
+      <link>https://bretsw.com/post/passion_talks_strength_of_weak_ties/</link>
       <pubDate>Sat, 13 Aug 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/passion_talks_strength_of_weak_ties/</guid>
+      <guid>https://bretsw.com/post/passion_talks_strength_of_weak_ties/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>The Strength of Weak Ties</title>
-      <link>http://bretsw.com/post/strength_of_weak_ties/</link>
+      <link>https://bretsw.com/post/strength_of_weak_ties/</link>
       <pubDate>Sat, 30 Jul 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/strength_of_weak_ties/</guid>
+      <guid>https://bretsw.com/post/strength_of_weak_ties/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Motivation Interview</title>
-      <link>http://bretsw.com/post/motivation-interview/</link>
+      <link>https://bretsw.com/post/motivation-interview/</link>
       <pubDate>Sun, 10 Jul 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/motivation-interview/</guid>
+      <guid>https://bretsw.com/post/motivation-interview/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>proCATstination</title>
-      <link>http://bretsw.com/post/procatstination/</link>
+      <link>https://bretsw.com/post/procatstination/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/procatstination/</guid>
+      <guid>https://bretsw.com/post/procatstination/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Coursework: Master of Arts in Educational Technology</title>
-      <link>http://bretsw.com/post/coursework_maet/</link>
+      <link>https://bretsw.com/post/coursework_maet/</link>
       <pubDate>Sat, 15 Aug 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/coursework_maet/</guid>
+      <guid>https://bretsw.com/post/coursework_maet/</guid>
       <description>In 2015, I completed a Master of Arts degree in Educational Technology through Michigan State University&amp;rsquo;s College of Education. Here I offer a bit of my experience in each course.
 The &amp;ldquo;CEP&amp;rdquo; before the course number stands for &amp;ldquo;Counseling, Educational Psychology, and Special Education,&amp;rdquo; the name of the department in the College of Education.&amp;rdquo;
 CEP 800: Psychology of Learning in School and Other Settings Summer 2013
@@ -171,47 +171,47 @@ Instructors: Dr. Hannah Klautke, Dr.</description>
     
     <item>
       <title>Making</title>
-      <link>http://bretsw.com/post/making/</link>
+      <link>https://bretsw.com/post/making/</link>
       <pubDate>Sun, 12 Jul 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/making/</guid>
+      <guid>https://bretsw.com/post/making/</guid>
       <description> Makerspaces   Repurposing   Maker Movement Assessment   </description>
     </item>
     
     <item>
       <title>Alessia&#39;s Bulwark</title>
-      <link>http://bretsw.com/post/alessia_bulwark/</link>
+      <link>https://bretsw.com/post/alessia_bulwark/</link>
       <pubDate>Thu, 30 Apr 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/alessia_bulwark/</guid>
+      <guid>https://bretsw.com/post/alessia_bulwark/</guid>
       <description>“Art is a lie that makes us realize truth.”
 Picasso’s famous words were among those jumbling in my head while watching Super Bowl commercials this year. That’s right, my boyfriend was watching football; I was watching commercials. Anyway, Liam Neeson had me in stitches when he said, “BigBuffetBoy85, I’m coming for you, with lots of barbarians and dragons.” Hilarious for riffing off his Taken franchise persona to sell Clash of Clans to a new audience, but also, well, awkwardly, nervously funny because this made-up marketing scenario tapped into something deeper, something that hit me close to home.</description>
     </item>
     
     <item>
       <title>Testing</title>
-      <link>http://bretsw.com/post/testing/</link>
+      <link>https://bretsw.com/post/testing/</link>
       <pubDate>Sun, 19 Apr 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/testing/</guid>
+      <guid>https://bretsw.com/post/testing/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Online Communities</title>
-      <link>http://bretsw.com/post/online_communities/</link>
+      <link>https://bretsw.com/post/online_communities/</link>
       <pubDate>Fri, 19 Sep 2014 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/online_communities/</guid>
+      <guid>https://bretsw.com/post/online_communities/</guid>
       <description> Perceiving Community   Patterning Community   Embodying Community   Modeling Community   Synthesizing Community   </description>
     </item>
     
     <item>
       <title>Coursework: Graduate Certificate in Serious Game Design and Research</title>
-      <link>http://bretsw.com/post/coursework_serious_game/</link>
+      <link>https://bretsw.com/post/coursework_serious_game/</link>
       <pubDate>Wed, 30 Apr 2014 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/coursework_serious_game/</guid>
+      <guid>https://bretsw.com/post/coursework_serious_game/</guid>
       <description>In 2014, I completed a 3-course Graduate Certificate in Serious Game Design and Research through Michigan State University&amp;rsquo;s College of Communication Arts and Sciences. Here I offer a bit of my experience in each course.
 The &amp;ldquo;TC&amp;rdquo; before the course number stands for &amp;ldquo;Telecommunications,&amp;rdquo; the old department name in the College of Communication Arts and Sciences before they changed it to &amp;ldquo;Media and Information.&amp;rdquo;
 TC 831: Theories of Games and Interaction for Design Fall 2012</description>
@@ -219,19 +219,19 @@ TC 831: Theories of Games and Interaction for Design Fall 2012</description>
     
     <item>
       <title>Learning to Read Socially</title>
-      <link>http://bretsw.com/post/learning-to-read-socially/</link>
+      <link>https://bretsw.com/post/learning-to-read-socially/</link>
       <pubDate>Sun, 09 Jun 2013 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/learning-to-read-socially/</guid>
+      <guid>https://bretsw.com/post/learning-to-read-socially/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>How to Tell a Good Story</title>
-      <link>http://bretsw.com/post/tell-a-good-story/</link>
+      <link>https://bretsw.com/post/tell-a-good-story/</link>
       <pubDate>Fri, 24 May 2013 00:00:00 -0400</pubDate>
       
-      <guid>http://bretsw.com/post/tell-a-good-story/</guid>
+      <guid>https://bretsw.com/post/tell-a-good-story/</guid>
       <description> </description>
     </item>
     
