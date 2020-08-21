@@ -181,7 +181,7 @@
       <guid>https://bretsw.com/post/dissertation-themes/</guid>
       <description>
 
-&lt;p&gt;As I&amp;rsquo;ve wrapped up numerous cycles of qualitative coding of interview data for my dissertation, &lt;em&gt;Into the edu-verse: New teachers’ agency in self-directed learning with social media&lt;/em&gt;, I used &lt;code&gt;geom_tile()&lt;/code&gt; in &lt;strong&gt;{ggplot2}&lt;/strong&gt; to create heatmap plots to help me quickly visualize how thematic codes varied by interview participant and by modality.&lt;/p&gt;
+&lt;p&gt;As I&amp;rsquo;ve wrapped up numerous cycles of qualitative coding of interview data for my dissertation, &lt;em&gt;Into the edu-verse: New teachers seeking induction support on social media&lt;/em&gt;, I used &lt;code&gt;geom_tile()&lt;/code&gt; in &lt;strong&gt;{ggplot2}&lt;/strong&gt; to create heatmap plots to help me quickly visualize how thematic codes varied by interview participant and by modality.&lt;/p&gt;
 
 &lt;h2 id=&#34;codes-by-participant&#34;&gt;Codes by Participant&lt;/h2&gt;
 
