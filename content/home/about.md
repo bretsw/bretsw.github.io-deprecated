@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2020-08-12T00:00:00
+date = "`r Sys.time()`"
 
 # Order that this section will appear in.
 weight = 5
@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD student in Educational Psychology & Educational Technology"
+  course = "Ph.D. candidate in Educational Psychology & Educational Technology"
   institution = "Michigan State University"
   year = "2020 (expected)"
 
