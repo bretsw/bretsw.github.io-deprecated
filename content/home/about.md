@@ -11,6 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Networked Learning",
+    "Learning Analytics",
     "Online Communities",
     "Social Media"
   ]
