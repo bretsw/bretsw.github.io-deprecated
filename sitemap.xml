@@ -45,6 +45,12 @@
   
     <url>
     
+      <loc>https://bretsw.com/project/data-science-in-ed/</loc>
+      <lastmod>2020-06-01T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.com/publication/staudtwillet_carpenter_2020/</loc>
       <lastmod>2020-02-05T00:00:00-05:00</lastmod>
     </url>
@@ -89,6 +95,12 @@
     
       <loc>https://bretsw.com/publication/krutka_heath_staudtwillet_2020/</loc>
       <lastmod>2019-11-03T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.com/project/transition-support/</loc>
+      <lastmod>2019-10-01T00:00:00-04:00</lastmod>
     </url>
   
     <url>
@@ -141,6 +153,12 @@
   
     <url>
     
+      <loc>https://bretsw.com/project/teaching-subreddits/</loc>
+      <lastmod>2018-09-01T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.com/publication/greenhalgh_staudtwillet_rosenberg_koehler_2018/</loc>
       <lastmod>2018-06-01T00:00:00-04:00</lastmod>
     </url>
@@ -177,6 +195,12 @@
   
     <url>
     
+      <loc>https://bretsw.com/project/twitter-hashtags/</loc>
+      <lastmod>2017-10-01T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.com/publication/rosenberg_akcaoglu_staudtwillet_greenhalgh_koehler_2017/</loc>
       <lastmod>2017-03-05T00:00:00-05:00</lastmod>
     </url>
@@ -197,6 +221,12 @@
     
       <loc>https://bretsw.com/post/tale-of-two-grandpas/</loc>
       <lastmod>2016-11-18T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.com/project/social-scholarship/</loc>
+      <lastmod>2016-10-01T00:00:00-04:00</lastmod>
     </url>
   
     <url>
@@ -491,6 +521,13 @@
   
     <url>
     
+      <loc>https://bretsw.com/project/</loc>
+      <lastmod>2020-06-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.com/publication_types/</loc>
       <lastmod>2019-03-22T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -555,6 +592,13 @@
     
       <loc>https://bretsw.com/tags/twitter/</loc>
       <lastmod>2020-01-25T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.com/tags/academics/</loc>
+      <lastmod>2016-10-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -643,8 +687,22 @@
   
     <url>
     
+      <loc>https://bretsw.com/tags/data-science/</loc>
+      <lastmod>2020-06-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.com/tags/dataviz/</loc>
       <lastmod>2020-08-20T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.com/tags/discussion-forum/</loc>
+      <lastmod>2018-09-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -659,6 +717,13 @@
     
       <loc>https://bretsw.com/tags/diversity/</loc>
       <lastmod>2020-08-18T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.com/tags/education/</loc>
+      <lastmod>2020-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -748,6 +813,13 @@
   
     <url>
     
+      <loc>https://bretsw.com/tags/higher-education/</loc>
+      <lastmod>2016-10-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.com/tags/humor/</loc>
       <lastmod>2016-07-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -757,6 +829,13 @@
     
       <loc>https://bretsw.com/tags/inclusion/</loc>
       <lastmod>2020-08-18T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.com/tags/induction/</loc>
+      <lastmod>2019-10-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -825,6 +904,13 @@
   
     <url>
     
+      <loc>https://bretsw.com/tags/open-scholarship/</loc>
+      <lastmod>2016-10-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.com/tags/passion-talks/</loc>
       <lastmod>2016-08-13T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -869,6 +955,13 @@
     
       <loc>https://bretsw.com/tags/research/</loc>
       <lastmod>2020-08-14T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.com/tags/self-directed-learning/</loc>
+      <lastmod>2018-09-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -995,6 +1088,13 @@
     
       <loc>https://bretsw.com/tags/transcript/</loc>
       <lastmod>2019-05-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.com/tags/transition/</loc>
+      <lastmod>2019-10-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   

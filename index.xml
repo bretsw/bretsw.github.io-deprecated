@@ -335,6 +335,48 @@
     </item>
     
     <item>
+      <title>Data Science in Education</title>
+      <link>https://bretsw.com/project/data-science-in-ed/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.com/project/data-science-in-ed/</guid>
+      <description>
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;Data science and learning analytics in education are useful, but we have limited information about the effectiveness or recommendations to guide the design of learning opportunities for professionals working in education. At the same time, we know that, in general, well-designed learning opportunities, even those brief in duration, can improve computational skills. Our purpose is to explore the design and effects of data science workshops for educational researchers.&lt;/p&gt;
+
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Rosenberg, J. M., &amp;amp; &lt;strong&gt;Staudt Willet&lt;/strong&gt;, K. B. (in press). Balancing privacy and open science in the context of COVID-19: A response to Ifenthaler &amp;amp; Schumacher (2016). &lt;em&gt;Educational Technology Research and Development&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;works-in-progress&#34;&gt;Works-in-progress&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;The design and effects of data science workshops for educational researchers&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Who is an educational data scientist?&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;contributions&#34;&gt;Contributions&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;See the &lt;a href=&#34;https://www.elsevier.com/authors/journal-authors/policies-and-ethics/credit-author-statement&#34; target=&#34;_blank&#34;&gt;Contributor Roles Taxonomy&lt;/a&gt; (CRediT) from Elsevier for the full list.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Conceptualization&lt;/li&gt;
+&lt;li&gt;Methodology&lt;/li&gt;
+&lt;li&gt;Software&lt;/li&gt;
+&lt;li&gt;Validation&lt;/li&gt;
+&lt;li&gt;Formal analysis&lt;/li&gt;
+&lt;li&gt;Investigation&lt;/li&gt;
+&lt;li&gt;Writing - original draft&lt;/li&gt;
+&lt;li&gt;Writing - review &amp;amp; editing&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Teachers on Reddit? Exploring Contributions and Interactions in Four Teaching-Related Subreddits</title>
       <link>https://bretsw.com/publication/staudtwillet_carpenter_2020/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 -0500</pubDate>
@@ -407,6 +449,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; for sharing code&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://osf.io/&#34; target=&#34;_blank&#34;&gt;Open Science Framework&lt;/a&gt; for sharing data&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/yihui/xaringan/wiki&#34; target=&#34;_blank&#34;&gt;xaringan&lt;/a&gt; R package for creating presentation slides&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.overleaf.com&#34; target=&#34;_blank&#34;&gt;Overleaf&lt;/a&gt; for LaTeX-powered article preprints&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;keeping-track&#34;&gt;Keeping track&lt;/h2&gt;
@@ -516,15 +559,6 @@
 &lt;/div&gt;
 
 </description>
-    </item>
-    
-    <item>
-      <title>Foregrounding technoethics: Toward Critical perspectives in technology and teacher education</title>
-      <link>https://bretsw.com/publication/krutka_heath_staudtwillet_2020/</link>
-      <pubDate>Sun, 03 Nov 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://bretsw.com/publication/krutka_heath_staudtwillet_2020/</guid>
-      <description></description>
     </item>
     
   </channel>
