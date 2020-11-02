@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {year}</copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 05 Mar 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://bretsw.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>#Edchat</title>
       <link>https://bretsw.com/tags/#edchat/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 -0500</pubDate>
       
       <guid>https://bretsw.com/tags/#edchat/</guid>
       <description></description>
@@ -45,6 +45,15 @@
       <pubDate>Mon, 26 Mar 2018 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.com/tags/boardgamegeek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19</title>
+      <link>https://bretsw.com/tags/covid-19/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.com/tags/covid-19/</guid>
       <description></description>
     </item>
     
@@ -123,7 +132,7 @@
     <item>
       <title>Reddit</title>
       <link>https://bretsw.com/tags/reddit/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.com/tags/reddit/</guid>
       <description></description>
@@ -168,7 +177,7 @@
     <item>
       <title>affinity spaces</title>
       <link>https://bretsw.com/tags/affinity-spaces/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.com/tags/affinity-spaces/</guid>
       <description></description>
@@ -258,7 +267,7 @@
     <item>
       <title>data science</title>
       <link>https://bretsw.com/tags/data-science/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.com/tags/data-science/</guid>
       <description></description>
@@ -303,7 +312,7 @@
     <item>
       <title>education</title>
       <link>https://bretsw.com/tags/education/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.com/tags/education/</guid>
       <description></description>
@@ -321,7 +330,7 @@
     <item>
       <title>educators</title>
       <link>https://bretsw.com/tags/educators/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.com/tags/educators/</guid>
       <description></description>
@@ -463,6 +472,15 @@
     </item>
     
     <item>
+      <title>learning ecologies</title>
+      <link>https://bretsw.com/tags/learning-ecologies/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.com/tags/learning-ecologies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>makerspaces</title>
       <link>https://bretsw.com/tags/makerspaces/</link>
       <pubDate>Sun, 12 Jul 2015 00:00:00 -0400</pubDate>
@@ -526,6 +544,15 @@
     </item>
     
     <item>
+      <title>online discussion forum</title>
+      <link>https://bretsw.com/tags/online-discussion-forum/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.com/tags/online-discussion-forum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>online discussion forums</title>
       <link>https://bretsw.com/tags/online-discussion-forums/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 -0500</pubDate>
@@ -540,6 +567,24 @@
       <pubDate>Sat, 01 Oct 2016 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.com/tags/open-scholarship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open science</title>
+      <link>https://bretsw.com/tags/open-science/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.com/tags/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pandemic</title>
+      <link>https://bretsw.com/tags/pandemic/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.com/tags/pandemic/</guid>
       <description></description>
     </item>
     
@@ -562,11 +607,11 @@
     </item>
     
     <item>
-      <title>purposes</title>
-      <link>https://bretsw.com/tags/purposes/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 -0400</pubDate>
+      <title>privacy</title>
+      <link>https://bretsw.com/tags/privacy/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 -0400</pubDate>
       
-      <guid>https://bretsw.com/tags/purposes/</guid>
+      <guid>https://bretsw.com/tags/privacy/</guid>
       <description></description>
     </item>
     
@@ -609,7 +654,7 @@
     <item>
       <title>self-directed learning</title>
       <link>https://bretsw.com/tags/self-directed-learning/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.com/tags/self-directed-learning/</guid>
       <description></description>
@@ -636,7 +681,7 @@
     <item>
       <title>social media</title>
       <link>https://bretsw.com/tags/social-media/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.com/tags/social-media/</guid>
       <description></description>
@@ -711,6 +756,15 @@
       <pubDate>Sat, 25 Jan 2020 00:00:00 -0500</pubDate>
       
       <guid>https://bretsw.com/tags/teacher-professional-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teachers</title>
+      <link>https://bretsw.com/tags/teachers/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.com/tags/teachers/</guid>
       <description></description>
     </item>
     

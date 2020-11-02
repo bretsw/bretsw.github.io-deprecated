@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {year}</copyright>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://bretsw.com/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Balancing Privacy and Open Science in the Context of COVID-19: A Response to Ifenthaler &amp; Schumacher (2016)</title>
+      <link>https://bretsw.com/publication/rosenberg_staudtwillet_inpress/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.com/publication/rosenberg_staudtwillet_inpress/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Science in Education</title>
