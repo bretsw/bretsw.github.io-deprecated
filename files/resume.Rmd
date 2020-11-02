@@ -1,0 +1,144 @@
+---
+title: "Résumé"
+
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: ~/git/resume/bsw-latex-resume.tex
+geometry: "top=.5in, left =0.75in, right=0.75in, bottom=.5in"
+
+author: K. Bret Staudt Willet
+
+jobtitle: "Ph.D. Candidate, Michigan State University; Executive Coach, Black in Gaming"
+fontawesome: yes
+
+email: bret@bretsw.com
+twitter: bretsw
+github: bretsw
+linkedin: bretsw
+scholar: bretsw
+web: bretsw.com
+phone: 
+
+updated: 
+
+keywords: networked learning, online communities, social media
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+
+---
+
+# Summary
+
+- Researcher with extensive academic publishing record and expertise in mixed methods including data mining, social network analysis, natural language processing, topic models, data visualization, interviews, and surveys
+- Problem-solver focused on asking the right questions and applying appropriate methods
+- User-centered designer with experience in online learning environments, teacher professional development, serious games, and design thinking 
+- Leader with 12+ years of experience in management, directing new initiatives, and organizational development
+- Project manager with proven ability to lead multiple projects while meeting challenging deadlines
+
+---
+
+# Experience
+
+**Executive Coach** \hfill 2020-present  
+Black in Gaming \hfill Remote
+
+- Trained and mentored members of the executive leadership team through 40+ sessions spanning 3 months to innovate and focus efforts toward advocacy, incubation, and education initiatives
+- Designed and implemented strategies for organizational development, resulting in a conference SIG becoming a movement to see Black representation in the game industry increase from 2% to 5% in 5 years
+- Directed onboarding of 5 new members of the executive leadership team and 10 managers, resulting in a loosely affiliated network finding mutual purpose and taking ownership to drive forward a shared mission
+
+**Ph.D. Candidate** \hfill 2016-present  
+Michigan State University, College of Education \hfill East Lansing, MI
+
+- Conducted and disseminated mixed methods research focused on networked learning and information science
+  - Wrote a dissertation highlighting challenges faced by new teachers as they transition into their new roles; synthesized themes from interviews to make recommendations to new teachers as well as education leaders designing induction supports
+  - Published 12 articles in top peer-reviewed, academic journals and 6 chapters in edited books
+  - Wrote and presented 38 papers at academic conferences
+  - Presented 15 workshops and guest lectures on topics including understanding users, research methods, R programming, game design, and online communities
+- Developed and shared an open-source R package for simple collection and powerful analysis of Twitter data
+- Developed a supervised machine learning classifier to categorize tweets by tweeter's purpose
+- Wrote code to retrieve subreddit posts and responses from the Reddit API (R package in development)
+- Taught *Teaching & Learning with Technology* (Undergraduate, online, 7x, mean of 26 students)
+  - Students completed a semester-long project by designing a professional online portfolio showcasing their new skills in design thinking, computational thinking, and media & information literacy
+- Taught *Learning Technology by Design* (Master’s, online, 3x, mean of 22 students)
+  - Students completed a semester-long project by working through one cycle of a design process (empathize, define, ideate, prototype, test) to address a problem of practice in their professional context.
+- Taught *Electronic Assessment for Teaching and Learning* (Master’s, online, 3x, mean of 14 students)
+  - Students completed a semester-long project by creating a formative assessment design plan (incorporating learning theories, feedback, and educational technologies) to implement in their professional context.
+- Taught *Teaching Students Online* (Master’s, online, 1x, 14 students)
+  - Students completed a semester-long project by designing a curriculum for an online course module for their professional context, which may include training sessions or non-traditional courses.
+
+**Founding National Director, Ministry in Digital Spaces** \hfill 2014-2017  
+InterVarsity Christian Fellowship/USA \hfill Madison, WI
+
+- Set out to build the most diverse tech team in America
+- Recruited and trained 11 talented women and men, seeing the core leadership team grow from 1 to 12
+- Supervised 8 project leads managing 51 user-centered projects conceptualizing, developing, and testing innovative approaches to building online communities through video games and social media
+- Directed and facilitated 5 think tank gatherings of industry experts in Atlanta, Austin, and San Francisco
+
+
+**Area Director** \hfill 2009-2014  
+InterVarsity Christian Fellowship/USA \hfill Lancaster, PA
+
+- Supervised 17 different staff at colleges and universities across South Central Pennsylvania
+- Directed 11 conferences for undergraduate students from 7 colleges (mean of 100 registrants)
+- Delivered 100+ talks at 13 different colleges and 8 inter-collegiate conferences (range of 15 to 200 attendees)
+- Designed and facilitated 30 training seminars for staff and students, specializing in leadership development
+
+---
+
+# Education
+
+**Michigan State University**
+
+- 2020 (expected): Ph.D. in Educational Psychology & Educational Technology
+- 2015: M.A. in Educational Technology
+- 2014: Graduate Certificate in Serious Game Design and Research
+ 
+**Bucknell University**
+
+- 2003: B.A. in Mathematics & Sociology
+
+**Further Training**
+
+- 2020: *Early Career Symposium* at Association for Educational Communications and Technology (AECT) International Convention (Online)
+- 2020: *Reproducible Research* Course Certificate from Johns Hopkins University (Coursera.org)
+- 2019: *Exploratory Data Analysis* Course Certificate from Johns Hopkins University (Coursera.org)
+- 2018: *Doctoral Colloquium* at Association of Internet Researchers (AoIR) International Conference (Montreal)
+- 2018: *Methods for Analyzing and Modeling Textual Data* at Summer School Series on Methods for Computational Social Science (Los Angeles, CA)
+- 2018: *Getting and Cleaning Data* Course Certificate from Johns Hopkins University (Coursera.org)
+- 2018: *The Data Scientist’s Toolbox* Course Certificate from Johns Hopkins University (Coursera.org)
+- 2017: *R Programming* Course Certificate from Johns Hopkins University (Coursera.org)
+- 2012: *Game Design and Facilitation* Workshop Certificate from The Thiagi Group at North American Simulation and Gaming Association (NASAGA) International Conference (Columbus, OH)
+
+---
+
+# Accomplishments
+
+**Awards**
+
+- 2020: Clifford E. Erickson Memorial Fund Scholarship from Michigan State's College of Education
+- 2020: Featured Research at Association for Educational Communications and Technology (AECT) International Convention (Online) as lead investigator of how social networks on Reddit change over time 
+- 2020: Outstanding Paper Award from Society for Information Technology & Teacher Education (SITE) International Conference (Online) as sole investigator of discourse in Twitter hashtags and reply threads
+- 2019: Disciplinary Leadership Award from Michigan State's Council of Graduate Students
+- 2019: Outstanding Paper Award from SITE International Conference (Las Vegas, NV) as lead investigator comparing participation in four subreddits through data mining and social network analysis
+- 2017: Outstanding Paper Award from SITE International Conference (Austin, TX) as lead investigator interpreting Twitter hashtag activity through three different theoretical frameworks
+
+**Service**
+
+- 2020-2021: Communications Officer for AECT's Research & Theory Division
+- 2019-2021: Co-Chair for SITE's Social Media SIG
+- 2019-2020: Secretary for AECT's Research & Theory Division
+- 2018-2019: Webinar Team Leader for AECT'S Graduate Student Association
+- 2017: Science, Technology, & Innovation Track Chair and Conference Executive Committee Member for Passion Talks Conference (Google HQ, Mountain View, CA)
+- 2015: Hackathon Mentor Coordinator for Urbana International Conference (St. Louis, MO)
+- 2013-2015: Board Member for North American Simulation and Gaming Association (NASAGA)
+
+---
+
+# Technical Skills
+
+- R, Markdown/R Markdown, Git/Github, ATLAS.ti, Gephi, Excel, SPSS, HTML, CSS
