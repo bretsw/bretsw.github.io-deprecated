@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {year}</copyright>
-    <lastBuildDate>Sat, 22 Aug 2020 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://bretsw.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My AECT 2020 Work</title>
+      <link>https://bretsw.com/post/aect-2020/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://bretsw.com/post/aect-2020/</guid>
+      <description>Workshop - Simple Collection and Powerful Analysis of Twitter Data Using R Friday, October 30, 2020
+The workshop website is accessible at https://bretsw.github.io/aect20-workshop/. From here, you can link to all workshop materials, including slides, RStudio Cloud workspace, and data.
+Panel - Factors Influencing Doctoral Students’ Perseverance in Online Instructional Technology Programs Tuesday, November 3, 2020
+The online doctoral student is a new phenomenon. This session brings together doctoral students to discuss their experiences persevering in fully online instructional technology programs at their own universities.</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Inter-rater Reliability</title>
+      <link>https://bretsw.com/post/irr-visual/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://bretsw.com/post/irr-visual/</guid>
+      <description>Background on Reporting Inter-rater Reliability Qualitative studies often report inter-reliability (IRR) scores as a measure of the trustworthiness of coding, or an assurance to readers that they might follow the researcher&amp;rsquo;s codebook and expect to find similar results. How these scores get reported varies widely. Often, I see just the range of scores reported, hopefully with Cohen&amp;rsquo;s kappa calculated in addition to the more straightforward percent agreement. The kappa is important because it takes into account variance in the frequency of a code.</description>
+    </item>
     
     <item>
       <title>Career Reflection</title>
@@ -56,8 +77,8 @@ I am writing this diversity statement as a white, cisgender, heterosexual, Ameri
       <pubDate>Thu, 09 Jul 2020 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.com/post/dissertation-themes/</guid>
-      <description>As I&amp;rsquo;ve wrapped up numerous cycles of qualitative coding of interview data for my dissertation, Into the edu-verse: New teachers seeking induction support on social media, I used geom_tile() in {ggplot2} to create heatmap plots to help me quickly visualize how thematic codes varied by interview participant and by modality.
-Codes by Participant Codes by Modality I&amp;rsquo;ve shared the code to produce these plots in a GitHub repository, and you can also view on RPubs a variety of different heatmaps I created en route to these final plots.</description>
+      <description>As I&amp;rsquo;ve wrapped up numerous cycles of qualitative coding of interview data for my dissertation, Into the edu-verse: New teachers seeking induction support on social media, I used geom_tile() in {ggplot2} to create heatmap plots to help me quickly visualize how thematic codes varied by interview participant.
+Heatmap Comparison of Thematic Codes by Interview Participant Note. Columns have been computationally reordered using principle components analysis (PCA) so that side-by-side columns are more similar than non-adjacent columns.</description>
     </item>
     
     <item>

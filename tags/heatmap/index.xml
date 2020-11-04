@@ -18,8 +18,8 @@
       <pubDate>Thu, 09 Jul 2020 00:00:00 -0400</pubDate>
       
       <guid>https://bretsw.com/post/dissertation-themes/</guid>
-      <description>As I&amp;rsquo;ve wrapped up numerous cycles of qualitative coding of interview data for my dissertation, Into the edu-verse: New teachers seeking induction support on social media, I used geom_tile() in {ggplot2} to create heatmap plots to help me quickly visualize how thematic codes varied by interview participant and by modality.
-Codes by Participant Codes by Modality I&amp;rsquo;ve shared the code to produce these plots in a GitHub repository, and you can also view on RPubs a variety of different heatmaps I created en route to these final plots.</description>
+      <description>As I&amp;rsquo;ve wrapped up numerous cycles of qualitative coding of interview data for my dissertation, Into the edu-verse: New teachers seeking induction support on social media, I used geom_tile() in {ggplot2} to create heatmap plots to help me quickly visualize how thematic codes varied by interview participant.
+Heatmap Comparison of Thematic Codes by Interview Participant Note. Columns have been computationally reordered using principle components analysis (PCA) so that side-by-side columns are more similar than non-adjacent columns.</description>
     </item>
     
   </channel>

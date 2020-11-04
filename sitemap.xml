@@ -3,6 +3,12 @@
   
     <url>
     
+      <loc>https://bretsw.com/post/aect-2020/</loc>
+      <lastmod>2020-11-02T00:00:00-05:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.com/publication/staudtwillet_carpenter_inpress-copy/</loc>
       <lastmod>2020-10-26T00:00:00-04:00</lastmod>
     </url>
@@ -11,6 +17,12 @@
     
       <loc>https://bretsw.com/publication/rosenberg_staudtwillet_inpress/</loc>
       <lastmod>2020-10-25T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.com/post/irr-visual/</loc>
+      <lastmod>2020-10-09T00:00:00-04:00</lastmod>
     </url>
   
     <url>
@@ -40,7 +52,7 @@
     <url>
     
       <loc>https://bretsw.com/post/dissertation-themes/</loc>
-      <lastmod>2020-08-20T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-17T00:00:00-04:00</lastmod>
     </url>
   
     <url>
@@ -334,6 +346,13 @@
   
     <url>
     
+      <loc>https://bretsw.com/tags/#aect20/</loc>
+      <lastmod>2020-11-02T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.com/publication_types/1/</loc>
       <lastmod>2019-03-22T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -423,7 +442,7 @@
     <url>
     
       <loc>https://bretsw.com/</loc>
-      <lastmod>2020-10-26T00:00:00-04:00</lastmod>
+      <lastmod>2020-11-02T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -535,7 +554,7 @@
     <url>
     
       <loc>https://bretsw.com/post/</loc>
-      <lastmod>2020-08-22T00:00:00-04:00</lastmod>
+      <lastmod>2020-11-02T00:00:00-05:00</lastmod>
     </url>
   
     <url>
@@ -561,7 +580,7 @@
     <url>
     
       <loc>https://bretsw.com/tags/r/</loc>
-      <lastmod>2020-08-20T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-09T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -624,6 +643,13 @@
     <url>
     
       <loc>https://bretsw.com/authors/admin/</loc>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.com/tags/aect/</loc>
+      <lastmod>2019-10-02T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -714,7 +740,7 @@
     <url>
     
       <loc>https://bretsw.com/tags/dataviz/</loc>
-      <lastmod>2020-08-20T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-09T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -728,7 +754,7 @@
     <url>
     
       <loc>https://bretsw.com/tags/dissertation/</loc>
-      <lastmod>2020-08-20T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-09T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -819,7 +845,7 @@
     <url>
     
       <loc>https://bretsw.com/tags/heatmap/</loc>
-      <lastmod>2020-08-20T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-17T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -855,6 +881,13 @@
     
       <loc>https://bretsw.com/tags/induction/</loc>
       <lastmod>2019-10-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.com/tags/irr/</loc>
+      <lastmod>2020-10-09T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -903,7 +936,7 @@
     <url>
     
       <loc>https://bretsw.com/tags/msu/</loc>
-      <lastmod>2020-08-20T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-17T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -972,8 +1005,22 @@
   
     <url>
     
+      <loc>https://bretsw.com/tags/presentation/</loc>
+      <lastmod>2020-11-02T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
       <loc>https://bretsw.com/tags/privacy/</loc>
       <lastmod>2020-10-25T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.com/tags/qualitative/</loc>
+      <lastmod>2020-10-17T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -995,6 +1042,13 @@
     
       <loc>https://bretsw.com/tags/reflection/</loc>
       <lastmod>2020-08-22T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.com/tags/reliability/</loc>
+      <lastmod>2020-10-09T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1023,6 +1077,13 @@
     
       <loc>https://bretsw.com/tags/skills/</loc>
       <lastmod>2020-08-22T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.com/tags/slide-deck/</loc>
+      <lastmod>2020-11-02T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
@@ -1163,6 +1224,13 @@
     
       <loc>https://bretsw.com/tags/webinars/</loc>
       <lastmod>2019-10-02T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>https://bretsw.com/tags/workshop/</loc>
+      <lastmod>2020-11-02T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
   
