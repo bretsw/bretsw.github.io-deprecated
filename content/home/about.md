@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "Ph.D. candidate in Educational Psychology & Educational Technology"
   institution = "Michigan State University"
-  year = "2020 (expected)"
+  year = "2021 (expected)"
 
 [[education.courses]]
   course = "MA in Educational Technology"
