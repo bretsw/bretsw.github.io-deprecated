@@ -11,9 +11,10 @@ weight = 5
 [interests]
   interests = [
     "Networked Learning",
-    "Learning Analytics",
     "Online Communities",
-    "Social Media"
+    "Social Media",
+    "Educational Data Mining",
+    "Learning Analytics"
   ]
 
 # List your qualifications (such as academic degrees).
