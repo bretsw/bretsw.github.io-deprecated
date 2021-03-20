@@ -19,9 +19,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Ph.D. candidate in Educational Psychology & Educational Technology"
+  course = "PhD in Educational Psychology & Educational Technology"
   institution = "Michigan State University"
-  year = "2021 (expected)"
+  year = 2021
 
 [[education.courses]]
   course = "MA in Educational Technology"
