@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>presentation on Digital space of K. Bret Staudt Willet</title>
-    <link>https://bretsw.com/tags/presentation/</link>
+    <link>http://bretsw.com/tags/presentation/</link>
     <description>Recent content in presentation on Digital space of K. Bret Staudt Willet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {year}</copyright>
     <lastBuildDate>Mon, 02 Nov 2020 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://bretsw.com/tags/presentation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bretsw.com/tags/presentation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My AECT 2020 Work</title>
-      <link>https://bretsw.com/post/aect-2020/</link>
+      <link>http://bretsw.com/post/aect-2020/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 -0500</pubDate>
       
-      <guid>https://bretsw.com/post/aect-2020/</guid>
+      <guid>http://bretsw.com/post/aect-2020/</guid>
       <description>Workshop - Simple Collection and Powerful Analysis of Twitter Data Using R Friday, October 30, 2020
 The workshop website is accessible at https://bretsw.github.io/aect20-workshop/. From here, you can link to all workshop materials, including slides, RStudio Cloud workspace, and data.
 Panel - Factors Influencing Doctoral Students’ Perseverance in Online Instructional Technology Programs Tuesday, November 3, 2020

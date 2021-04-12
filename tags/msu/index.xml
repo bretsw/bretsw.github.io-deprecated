@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>msu on Digital space of K. Bret Staudt Willet</title>
-    <link>https://bretsw.com/tags/msu/</link>
+    <link>http://bretsw.com/tags/msu/</link>
     <description>Recent content in msu on Digital space of K. Bret Staudt Willet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {year}</copyright>
     <lastBuildDate>Thu, 09 Jul 2020 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://bretsw.com/tags/msu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://bretsw.com/tags/msu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dissertation Themes</title>
-      <link>https://bretsw.com/post/dissertation-themes/</link>
+      <link>http://bretsw.com/post/dissertation-themes/</link>
       <pubDate>Thu, 09 Jul 2020 00:00:00 -0400</pubDate>
       
-      <guid>https://bretsw.com/post/dissertation-themes/</guid>
+      <guid>http://bretsw.com/post/dissertation-themes/</guid>
       <description>As I&amp;rsquo;ve wrapped up numerous cycles of qualitative coding of interview data for my dissertation, Into the edu-verse: New teachers seeking induction support on social media, I used geom_tile() in {ggplot2} to create heatmap plots to help me quickly visualize how thematic codes varied by interview participant.
 Heatmap Comparison of Thematic Codes by Interview Participant Note. Columns have been computationally reordered using principle components analysis (PCA) so that side-by-side columns are more similar than non-adjacent columns.</description>
     </item>
     
     <item>
       <title>Comparisons in Twitter #Edchat during COVID-19</title>
-      <link>https://bretsw.com/post/edchat-comparisons/</link>
+      <link>http://bretsw.com/post/edchat-comparisons/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 -0400</pubDate>
       
-      <guid>https://bretsw.com/post/edchat-comparisons/</guid>
+      <guid>http://bretsw.com/post/edchat-comparisons/</guid>
       <description>I am in the midst of two projects looking at how Twitter #Edchat tweets may have been affected by the COVID-19 pandemic. The first project is primarily comparing tweets in Spring 2020 to those in the same timeframe a year earlier. The second project focuses on Spring 2020 but compares tweets from U.K. and U.S. users. I used geom_tile() in {ggplot2} to create heatmap plots to help me quickly visualize and compare a large number of data points.</description>
     </item>
     
     <item>
       <title>Bret&#39;s Project Landscape (hosted on Trello)</title>
-      <link>https://bretsw.com/post/trello-projects/</link>
+      <link>http://bretsw.com/post/trello-projects/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 -0400</pubDate>
       
-      <guid>https://bretsw.com/post/trello-projects/</guid>
+      <guid>http://bretsw.com/post/trello-projects/</guid>
       <description>Projects of Bret Staudt Willet</description>
     </item>
     
     <item>
       <title>Dissertation Proposal</title>
-      <link>https://bretsw.com/post/dissertation-proposal/</link>
+      <link>http://bretsw.com/post/dissertation-proposal/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 -0500</pubDate>
       
-      <guid>https://bretsw.com/post/dissertation-proposal/</guid>
+      <guid>http://bretsw.com/post/dissertation-proposal/</guid>
       <description>Into the Edu-verse: Early-Career Educators Seeking Induction Support on Social Media On November 26, 2019, I successfully defended my dissertation proposal for my PhD in Educational Psychology and Educational Technology through Michigan State University&amp;rsquo;s College of Education. I have shared the full text of my proposal here: https://bretsw.github.io/dissertation-proposal-text/
 You can scroll through my presentation slides for the defense below (use the arrow keys) or view them here.
  At the end of the defense, I asked my committee for advice on sustaining a project as large as the dissertation, and they offered some great wisdom.</description>
@@ -53,10 +53,10 @@ You can scroll through my presentation slides for the defense below (use the arr
     
     <item>
       <title>CV</title>
-      <link>https://bretsw.com/cv/</link>
+      <link>http://bretsw.com/cv/</link>
       <pubDate>Sat, 15 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://bretsw.com/cv/</guid>
+      <guid>http://bretsw.com/cv/</guid>
       <description>K. Bret Staudt Willet, Ph.D. Incoming Assistant Professor, Florida State University (Aug. 2021)
 Email - Twitter - Github - LinkedIn - Google Scholar
 Keywords: networked learning, online communities, social media
@@ -68,10 +68,10 @@ Interests Networked Learning in Online Communities:
     
     <item>
       <title>Coursework: PhD in Educational Psychology and Educational Technology</title>
-      <link>https://bretsw.com/post/coursework_epet/</link>
+      <link>http://bretsw.com/post/coursework_epet/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://bretsw.com/post/coursework_epet/</guid>
+      <guid>http://bretsw.com/post/coursework_epet/</guid>
       <description>I have completed the coursework for my Ph.D. in Educational Psychology and Educational Technology through Michigan State University&amp;rsquo;s College of Education.
 Course department guide:
 * CEP = Department of Counseling, Educational Psychology, &amp;amp; Special Education
@@ -83,10 +83,10 @@ Instructors: Dr. Cary Roseth, Dr.</description>
     
     <item>
       <title>Coursework: Master of Arts in Educational Technology</title>
-      <link>https://bretsw.com/post/coursework_maet/</link>
+      <link>http://bretsw.com/post/coursework_maet/</link>
       <pubDate>Sat, 15 Aug 2015 00:00:00 -0400</pubDate>
       
-      <guid>https://bretsw.com/post/coursework_maet/</guid>
+      <guid>http://bretsw.com/post/coursework_maet/</guid>
       <description>In 2015, I completed a Master of Arts degree in Educational Technology through Michigan State University&amp;rsquo;s College of Education. Here I offer a bit of my experience in each course.
 The &amp;ldquo;CEP&amp;rdquo; before the course number stands for &amp;ldquo;Counseling, Educational Psychology, and Special Education,&amp;rdquo; the name of the department in the College of Education.&amp;rdquo;
 CEP 800: Psychology of Learning in School and Other Settings Summer 2013
@@ -95,10 +95,10 @@ Instructors: Dr. Hannah Klautke, Dr.</description>
     
     <item>
       <title>Coursework: Graduate Certificate in Serious Game Design and Research</title>
-      <link>https://bretsw.com/post/coursework_serious_game/</link>
+      <link>http://bretsw.com/post/coursework_serious_game/</link>
       <pubDate>Wed, 30 Apr 2014 00:00:00 -0400</pubDate>
       
-      <guid>https://bretsw.com/post/coursework_serious_game/</guid>
+      <guid>http://bretsw.com/post/coursework_serious_game/</guid>
       <description>In 2014, I completed a 3-course Graduate Certificate in Serious Game Design and Research through Michigan State University&amp;rsquo;s College of Communication Arts and Sciences. Here I offer a bit of my experience in each course.
 The &amp;ldquo;TC&amp;rdquo; before the course number stands for &amp;ldquo;Telecommunications,&amp;rdquo; the old department name in the College of Communication Arts and Sciences before they changed it to &amp;ldquo;Media and Information.&amp;rdquo;
 TC 831: Theories of Games and Interaction for Design Fall 2012</description>
