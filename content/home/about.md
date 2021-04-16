@@ -13,8 +13,8 @@ weight = 5
     "Networked Learning",
     "Online Communities",
     "Social Media",
-    "Educational Data Mining",
-    "Learning Analytics"
+    "Data Science",
+    "Educational Technology"
   ]
 
 # List your qualifications (such as academic degrees).
