@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {year}</copyright>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 23 Aug 2021 08:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://bretsw.com/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Teaching Notes from EME6356: Learning &amp; Web Analytics</title>
+      <link>http://bretsw.com/post/eme6356-hub/</link>
+      <pubDate>Mon, 23 Aug 2021 08:00:00 -0400</pubDate>
+      
+      <guid>http://bretsw.com/post/eme6356-hub/</guid>
+      <description>I wanted a place to compile all of my slide decks as I teach EME6356: Learning &amp;amp; Web Analytics at Florida State University. Enjoy!
+Course Description This course addresses the collection and use of data for decision making and assessment in learning and human performance contexts. Students will get hands-on experience with small data sets and will learn how big data sets are collected and used. The course will explore the role that analytics plays in education and related fields, identify the types of questions that might be answered via both quantitative and qualitative analytics, and engage in analytic- related problem solving.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Notes from EME6357: Evaluation of Instruction &amp; Training in Human-Performance Technology</title>
+      <link>http://bretsw.com/post/eme6357-hub/</link>
+      <pubDate>Mon, 23 Aug 2021 08:00:00 -0400</pubDate>
+      
+      <guid>http://bretsw.com/post/eme6357-hub/</guid>
+      <description>I wanted a place to compile all of my slide decks as I teach EME6357: Evaluation of Instruction &amp;amp; Training in Human-Performance Technology at Florida State University. Enjoy!
+Course Description This course focuses on the evaluation of training and instruction through a systemic analysis of the organization sponsoring the training program. The course also provides the knowledge and skills for conducting an HPT-based evaluation of training systems. Students actively participate in discussions, presentations, synthesis of materials, and the writing of papers.</description>
+    </item>
     
     <item>
       <title>Teaching Statement</title>
