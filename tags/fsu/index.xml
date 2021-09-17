@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {year}</copyright>
-    <lastBuildDate>Mon, 23 Aug 2021 08:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 15 Sep 2021 08:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://bretsw.com/tags/fsu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CV</title>
+      <link>http://bretsw.com/cv/</link>
+      <pubDate>Wed, 15 Sep 2021 08:00:00 -0400</pubDate>
+      
+      <guid>http://bretsw.com/cv/</guid>
+      <description>K. Bret Staudt Willet, Ph.D. Assistant Professor, Florida State University
+ |  |  |  |  | ORCiD | CV (PDF)
+General Information Professional Preparation  Ph.D. (2021), Michigan State University. Major: Educational Psychology &amp;amp; Educational Technology. Supervisor: Dr. Matthew Koehler &amp;amp; Dr. Christine Greenhow.  Staudt Willet, K. B. (2021). &amp;ldquo;I filled a lot of gaps&amp;rdquo;: How and why early career teachers expand induction support systems with social media.</description>
+    </item>
     
     <item>
       <title>Teaching Notes from EME6356: Learning &amp; Web Analytics</title>

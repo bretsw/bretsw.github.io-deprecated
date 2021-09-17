@@ -10,11 +10,11 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Networked Learning",
-    "Online Communities",
+    "Self-Directed Learning",
     "Social Media",
-    "Data Science",
-    "Educational Technology"
+    "Informal Learning",
+    "Learning Analytics",
+    "Online Communities"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -28,6 +28,11 @@ weight = 5
   institution = "Michigan State University"
   year = 2015
 
+[[education.courses]]
+  course = "Graduate Certificate in Serious Game Design & Research"
+  institution = "Michigan State University"
+  year = 2014
+  
 [[education.courses]]
   course = "BA in Mathematics & Sociology"
   institution = "Bucknell University"
