@@ -446,7 +446,14 @@
 
 &lt;p&gt;&lt;em&gt;Tuesday, September 28, 2021&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;[Coming soon!]&lt;/p&gt;
+&lt;p&gt;View the slides at &lt;a href=&#34;https://bretsw.github.io/eme6356-module4/&#34; target=&#34;_blank&#34;&gt;https://bretsw.github.io/eme6356-module4/&lt;/a&gt;, or scroll through below:&lt;/p&gt;
+
+&lt;iframe id=&#34;Module 4 slide deck&#34;
+    title=&#34;Module 4 slide deck&#34;
+    width=&#34;720&#34;
+    height=&#34;405&#34;
+    src=&#34;https://bretsw.github.io/eme6356-module4/&#34;&gt;
+&lt;/iframe&gt;
 
 &lt;hr /&gt;
 
